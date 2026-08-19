@@ -1,0 +1,35 @@
+{
+  "url": "http://127.0.0.1:8080/shows",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "John & Sheila Ludgate",
+      "hasCanvas": false,
+      "bodyTextLen": 2705,
+      "bodyTextHash": "7b85a39c839d03bafb0122f6267f60c582152f5d54f889095fb4c9874ed27710",
+      "bodyTextPrefix": "Ludgate JOHN & SHEILA Home Bio Music Listen Videos Photos Shows ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/shows.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "John & Sheila Ludgate",
+      "hasCanvas": false,
+      "bodyTextLen": 2649,
+      "bodyTextHash": "02029d9a0f71b929ac0adb9382c9d6083f4e0f92265ed2e001939e567bdad9fd",
+      "bodyTextPrefix": "Ludgate JOHN & SHEILA ON THE ROAD Shows 2009 to now — 962 shows ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/shows-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "verdictFile": "/workspace/screenshots/shows.json"
+}

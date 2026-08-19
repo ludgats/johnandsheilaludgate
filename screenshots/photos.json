@@ -1,0 +1,35 @@
+{
+  "url": "http://127.0.0.1:8080/photos",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "John & Sheila Ludgate",
+      "hasCanvas": false,
+      "bodyTextLen": 858,
+      "bodyTextHash": "a72aff23f0f2a00cc12118671a46b56991a795dd8830efaa2c9f5c14473aff0e",
+      "bodyTextPrefix": "Ludgate JOHN & SHEILA Home Bio Music Listen Videos Photos Shows ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/photos.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "John & Sheila Ludgate",
+      "hasCanvas": false,
+      "bodyTextLen": 802,
+      "bodyTextHash": "67cc2920cccda58df3621b06b93c41dfc1f59df4d4ca23f5cba15fe50b24c116",
+      "bodyTextPrefix": "Ludgate JOHN & SHEILA PICTURES Images The duo, the family band, ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/photos-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "verdictFile": "/workspace/screenshots/photos.json"
+}

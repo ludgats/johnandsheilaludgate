@@ -1,0 +1,35 @@
+{
+  "url": "http://127.0.0.1:8080/music",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "John & Sheila Ludgate",
+      "hasCanvas": false,
+      "bodyTextLen": 2412,
+      "bodyTextHash": "ed821557ffaf40c0b773882271fd0411286adce2e3553e09be158814eecd59d7",
+      "bodyTextPrefix": "Ludgate JOHN & SHEILA Home Bio Music Listen Videos Photos Shows ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/music.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "John & Sheila Ludgate",
+      "hasCanvas": false,
+      "bodyTextLen": 2356,
+      "bodyTextHash": "27a5b914d9ede7911fdd257c5e22a84069b6c2933cda5d941abe2cd164370c40",
+      "bodyTextPrefix": "Ludgate JOHN & SHEILA THE RECORDS CDs over the years Nine offici",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/music-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "verdictFile": "/workspace/screenshots/music.json"
+}

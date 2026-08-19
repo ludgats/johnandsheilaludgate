@@ -1,0 +1,37 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "John & Sheila Ludgate",
+      "hasCanvas": false,
+      "bodyTextLen": 2316,
+      "bodyTextHash": "137c798070ce87b52a2d6e3e05c60d1f04de1380c098dc6a2a98a5303522760d",
+      "bodyTextPrefix": "Ludgate JOHN & SHEILA Home Bio Music Listen Videos Photos Shows ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "John & Sheila Ludgate",
+      "hasCanvas": false,
+      "bodyTextLen": 2260,
+      "bodyTextHash": "29f26ab209fa6e6375b0af9e9c29c2290bbd83198ef089481f6b829f4c115426",
+      "bodyTextPrefix": "Ludgate JOHN & SHEILA BURLINGTON, ONTARIO John & Sheila Ludgate ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}

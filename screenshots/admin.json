@@ -1,0 +1,35 @@
+{
+  "url": "http://127.0.0.1:8080/admin",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "John & Sheila Ludgate",
+      "hasCanvas": false,
+      "bodyTextLen": 224,
+      "bodyTextHash": "75675a61001425fce00a4429f2be107ca70326dafd8b1dba704b5757d1673d57",
+      "bodyTextPrefix": "Ludgate Update the website This page is for John or Sheila. Visi",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/admin.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "John & Sheila Ludgate",
+      "hasCanvas": false,
+      "bodyTextLen": 224,
+      "bodyTextHash": "75675a61001425fce00a4429f2be107ca70326dafd8b1dba704b5757d1673d57",
+      "bodyTextPrefix": "Ludgate Update the website This page is for John or Sheila. Visi",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/admin-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "verdictFile": "/workspace/screenshots/admin.json"
+}
