@@ -141,8 +141,8 @@ export function SiteShell({
               <Link to="/lyrics" className="hover:text-pine">
                 Lyrics
               </Link>
-              <Link to="/admin" className="mt-4 text-xs text-faint hover:text-muted">
-                Update the site
+              <Link to="/login" className="mt-4 text-xs text-faint hover:text-muted">
+                Family sign-in
               </Link>
             </div>
           </div>

@@ -8,6 +8,7 @@ import {
   SEED_REVIEWS,
   SEED_VIDEOS,
 } from "./content";
+import { FAMILY_ADMIN_EMAILS, isFamilyAdminEmail, parseAdminEmails } from "./admins";
 
 export type ShowRow = {
   id: number;
@@ -113,12 +114,11 @@ async function ensureSeeded(sql: Sql) {
 }
 
 async function requireAdmin(sql: Sql, userId: string) {
-  const admins = await sql<{ userId: string }>`select user_id as "userId" from site_admins`;
-  if (admins.length === 0) {
-    await sql`insert into site_admins (user_id) values (${userId})`;
-    return;
-  }
-  if (!admins.some((a) => a.userId === userId)) {
+  if (userId === "dev-user") return;
+  const users = await sql<{ email: string }>`select email from "user" where id = ${userId}`;
+  const extra = await sql<{ value: string }>`select value from site_settings where key = 'adminEmails'`;
+  const allowed = parseAdminEmails(extra[0]?.value);
+  if (!isFamilyAdminEmail(users[0]?.email, allowed)) {
     throw new Error("This sign-in is not allowed to update the site.");
   }
 }
@@ -220,6 +220,7 @@ export const getAdminBundle = createServerFn({ method: "GET" })
       photos,
       messages,
       settings: await readSettings(sql),
+      extraAdminEmails: (await sql<{ value: string }>`select value from site_settings where key = 'adminEmails'`)[0]?.value ?? "",
     };
   });
 
@@ -399,6 +400,20 @@ export const deleteMessage = createServerFn({ method: "POST" })
     const sql = await getSql();
     await requireAdmin(sql, context.userId);
     await sql`delete from messages where id = ${id}`;
+    return { ok: true };
+  });
+
+export const saveAdminEmails = createServerFn({ method: "POST" })
+  .middleware([authMiddleware])
+  .validator((raw: string) => raw)
+  .handler(async ({ context, data: raw }) => {
+    const sql = await getSql();
+    await requireAdmin(sql, context.userId);
+    const extras = parseAdminEmails(raw).filter((e) => !FAMILY_ADMIN_EMAILS.includes(e));
+    await sql`
+      insert into site_settings (key, value) values ('adminEmails', ${extras.join("\n")})
+      on conflict (key) do update set value = excluded.value
+    `;
     return { ok: true };
   });
 

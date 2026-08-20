@@ -4,6 +4,7 @@ import { useState } from "react";
 import { toast } from "sonner";
 import { RedirectToSignIn, UserButton } from "@/lib/auth/gates";
 import { useCurrentUserState } from "@/lib/auth/use-current-user";
+import { signOut } from "@/lib/auth/client";
 import { Button } from "@/components/ui/button";
 import { Input, Label, Textarea } from "@/components/ui/input";
 import { formatShowDate, formatShowTime } from "@/lib/site/format";
@@ -18,12 +19,14 @@ import {
   deleteShow,
   deleteVideo,
   getAdminBundle,
+  saveAdminEmails,
   saveSettings,
   updateShow,
   type PhotoRow,
   type ShowRow,
 } from "@/lib/site/queries";
 import { compressImage } from "@/lib/site/compress-image";
+import { FAMILY_ADMIN_EMAILS } from "@/lib/site/admins";
 import { cn } from "@/lib/cn";
 
 export const Route = createFileRoute("/admin")({
@@ -80,29 +83,47 @@ function AdminPage() {
             <UserButton />
           </div>
         </div>
-        <div className="mx-auto flex max-w-5xl gap-1 overflow-x-auto px-4 pb-3">
-          {TABS.map((t) => (
-            <button
-              key={t}
-              type="button"
-              onClick={() => setTab(t)}
-              className={cn(
-                "rounded-md px-3 py-2 text-sm font-medium whitespace-nowrap",
-                tab === t ? "bg-pine text-surface" : "bg-paper text-ink hover:bg-line",
-              )}
-            >
-              {t}
-              {t === "Messages" && bundle?.messages.length ? ` (${bundle.messages.length})` : ""}
-            </button>
-          ))}
-        </div>
+        {bundle ? (
+          <div className="mx-auto flex max-w-5xl gap-1 overflow-x-auto px-4 pb-3">
+            {TABS.map((t) => (
+              <button
+                key={t}
+                type="button"
+                onClick={() => setTab(t)}
+                className={cn(
+                  "rounded-md px-3 py-2 text-sm font-medium whitespace-nowrap",
+                  tab === t ? "bg-pine text-surface" : "bg-paper text-ink hover:bg-line",
+                )}
+              >
+                {t}
+                {t === "Messages" && bundle.messages.length ? ` (${bundle.messages.length})` : ""}
+              </button>
+            ))}
+          </div>
+        ) : null}
       </header>
 
       <div className="mx-auto max-w-5xl px-4 py-8">
         {error ? (
-          <p className="rounded-lg border border-danger/30 bg-surface px-4 py-3 text-sm text-danger">{error}</p>
+          <div className="rounded-xl border border-danger/30 bg-surface px-5 py-6">
+            <p className="font-display text-xl font-semibold">This account cannot update the site</p>
+            <p className="mt-2 text-sm leading-relaxed text-muted">{error}</p>
+            <div className="mt-4 flex flex-wrap gap-3">
+              <Button
+                type="button"
+                onClick={() => {
+                  void signOut("/login");
+                }}
+              >
+                Sign out
+              </Button>
+              <Link to="/" className="inline-flex items-center text-sm text-pine hover:underline">
+                Back to the public site
+              </Link>
+            </div>
+          </div>
         ) : null}
-        {loading && !bundle ? <p className="text-sm text-muted">Loading your pages…</p> : null}
+        {loading && !bundle && !error ? <p className="text-sm text-muted">Loading your pages…</p> : null}
         {bundle && tab === "Shows" ? <ShowsTab upcoming={bundle.upcoming} past={bundle.past} onChange={reload} /> : null}
         {bundle && tab === "News" ? (
           <NoteTab announcement={bundle.settings.announcement} onChange={reload} settings={bundle.settings} />
@@ -110,7 +131,13 @@ function AdminPage() {
         {bundle && tab === "Photos" ? (
           <PhotosTab photos={bundle.photos} settings={bundle.settings} onChange={reload} />
         ) : null}
-        {bundle && tab === "Contact" ? <ContactTab settings={bundle.settings} onChange={reload} /> : null}
+        {bundle && tab === "Contact" ? (
+          <ContactTab
+            settings={bundle.settings}
+            extraAdminEmails={bundle.extraAdminEmails}
+            onChange={reload}
+          />
+        ) : null}
         {bundle && tab === "Videos" ? <VideosTab videos={bundle.videos} onChange={reload} /> : null}
         {bundle && tab === "Reviews" ? <ReviewsTab reviews={bundle.reviews} onChange={reload} /> : null}
         {bundle && tab === "Messages" ? <MessagesTab messages={bundle.messages} onChange={reload} /> : null}
@@ -526,13 +553,16 @@ function PhotosTab({
 
 function ContactTab({
   settings,
+  extraAdminEmails,
   onChange,
 }: {
   settings: Awaited<ReturnType<typeof getAdminBundle>>["settings"];
+  extraAdminEmails: string;
   onChange: () => Promise<void>;
 }) {
   const [busy, setBusy] = useState(false);
   return (
+    <>
     <form
       className="max-w-lg rounded-xl border border-line bg-surface p-5"
       onSubmit={async (e) => {
@@ -576,6 +606,45 @@ function ContactTab({
         </Button>
       </div>
     </form>
+    <form
+      className="mt-8 max-w-lg rounded-xl border border-line bg-surface p-5"
+      onSubmit={async (e) => {
+        e.preventDefault();
+        const fd = new FormData(e.currentTarget);
+        setBusy(true);
+        try {
+          await saveAdminEmails({ data: String(fd.get("adminEmails") ?? "") });
+          toast.success("Family logins saved.");
+          await onChange();
+        } catch (err) {
+          toast.error(err instanceof Error ? err.message : "Could not save.");
+        } finally {
+          setBusy(false);
+        }
+      }}
+    >
+      <h2 className="font-display text-2xl font-semibold">Who can update the site</h2>
+      <p className="mt-2 text-sm leading-relaxed text-muted">
+        Always allowed: {FAMILY_ADMIN_EMAILS.join(", ")}. Add another family email below, one per line,
+        if John uses a different address.
+      </p>
+      <div className="mt-4 grid gap-4">
+        <div>
+          <Label htmlFor="adminEmails">Extra family emails</Label>
+          <Textarea
+            id="adminEmails"
+            name="adminEmails"
+            rows={4}
+            defaultValue={extraAdminEmails}
+            placeholder="john@example.com"
+          />
+        </div>
+        <Button type="submit" disabled={busy}>
+          {busy ? "Saving…" : "Save family emails"}
+        </Button>
+      </div>
+    </form>
+    </>
   );
 }
 
