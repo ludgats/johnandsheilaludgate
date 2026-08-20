@@ -15,8 +15,8 @@ function Home() {
   const latest = albums[0];
   const featured = reviews.filter((r) => r.featured).slice(0, 3);
   const nextShows = upcoming.slice(0, 4);
-  const heroWide = settings.heroImage || "/media/hero-wide.jpg";
-  const heroMobile = settings.heroImageMobile || heroWide;
+  const heroWide = `${settings.heroImage}${settings.heroImage.includes("?") || settings.heroImage.startsWith("data:") ? "" : "?v=6"}`;
+  const heroMobile = `${settings.heroImageMobile}${settings.heroImageMobile.includes("?") || settings.heroImageMobile.startsWith("data:") ? "" : "?v=6"}`;
 
   return (
     <SiteShell phone={settings.phone} email={settings.email}>
@@ -26,7 +26,7 @@ function Home() {
           <img
             src={heroMobile}
             alt="A guitar and harmonica on a canoe at Youngs Point, with the bridges and cemetery hillside beyond"
-            className="absolute inset-0 h-full w-full object-cover object-[50%_58%] md:object-[46%_68%]"
+            className="absolute inset-0 h-full w-full object-cover object-[42%_52%] md:object-[32%_62%]"
           />
         </picture>
         <div className="absolute inset-0 bg-gradient-to-t from-ink/88 via-ink/35 to-ink/10" />

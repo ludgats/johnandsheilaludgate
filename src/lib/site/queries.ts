@@ -133,9 +133,17 @@ async function readSettings(sql: Sql): Promise<SiteSettings> {
     announcement: map.announcement || DEFAULT_SETTINGS.announcement,
     homeQuote: map.homeQuote || DEFAULT_SETTINGS.homeQuote,
     homeQuoteBy: map.homeQuoteBy || DEFAULT_SETTINGS.homeQuoteBy,
-    heroImage: map.heroImage || DEFAULT_SETTINGS.heroImage,
-    heroImageMobile: map.heroImageMobile || DEFAULT_SETTINGS.heroImageMobile,
+    heroImage: remapHero(map.heroImage, "wide"),
+    heroImageMobile: remapHero(map.heroImageMobile, "mobile"),
   };
+}
+
+function remapHero(src: string | undefined, which: "wide" | "mobile"): string {
+  const fallback = which === "wide" ? DEFAULT_SETTINGS.heroImage : DEFAULT_SETTINGS.heroImageMobile;
+  if (!src) return fallback;
+  if (src.startsWith("data:image/")) return src;
+  if (src.includes("/media/hero")) return fallback;
+  return src;
 }
 
 export const getPublicSite = createServerFn({ method: "GET" }).handler(async () => {
