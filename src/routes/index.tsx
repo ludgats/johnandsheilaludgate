@@ -26,7 +26,7 @@ function Home() {
           <img
             src={heroMobile}
             alt="A guitar and harmonica on a canoe looking toward downtown Lakefield, Ontario"
-            className="absolute inset-0 h-full w-full object-cover object-[50%_62%] md:object-[48%_62%]"
+            className="absolute inset-0 h-full w-full object-cover object-[50%_70%] md:object-[52%_58%]"
           />
         </picture>
         <div className="absolute inset-0 bg-gradient-to-t from-ink/88 via-ink/35 to-ink/10" />
