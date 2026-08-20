@@ -15,18 +15,17 @@ function Home() {
   const latest = albums[0];
   const featured = reviews.filter((r) => r.featured).slice(0, 3);
   const nextShows = upcoming.slice(0, 4);
-  const heroWide = `${settings.heroImage}${settings.heroImage.includes("?") || settings.heroImage.startsWith("data:") ? "" : "?v=12"}`;
-  const heroMobile = `${settings.heroImageMobile}${settings.heroImageMobile.includes("?") || settings.heroImageMobile.startsWith("data:") ? "" : "?v=12"}`;
+  const heroWide = `${settings.heroImage}${settings.heroImage.includes("?") || settings.heroImage.startsWith("data:") ? "" : "?v=13"}`;
 
   return (
     <SiteShell phone={settings.phone} email={settings.email}>
-      <section className="relative overflow-hidden bg-walnut aspect-[9/16] max-h-[78vh] md:aspect-video md:max-h-none">
+      <section className="relative overflow-hidden bg-walnut aspect-[3/4] max-h-[72vh] sm:aspect-[4/5] md:aspect-video md:max-h-none">
         <picture>
           <source media="(min-width: 768px)" srcSet={heroWide} />
           <img
             src={heroWide}
             alt="Guitars and drums on the Burlington Canal pier looking toward the lift bridge, Skyway, and Hamilton"
-            className="absolute inset-0 h-full w-full object-cover object-center"
+            className="absolute inset-0 h-full w-full object-cover object-[center_62%] md:object-center"
           />
         </picture>
         <div className="absolute inset-0 bg-gradient-to-b from-ink/92 via-ink/60 via-40% to-transparent to-[62%]" />
