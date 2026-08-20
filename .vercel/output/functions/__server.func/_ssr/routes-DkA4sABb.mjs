@@ -2,9 +2,9 @@ import { C as require_jsx_runtime, y as Link } from "../_libs/@tanstack/react-ro
 import { t as Button } from "./button-DxWxNcod.mjs";
 import { n as formatShowTime, t as formatShowDate } from "./format-Cd_nuLaQ.mjs";
 import { a as MapPin, c as ArrowRight, s as Calendar } from "../_libs/lucide-react.mjs";
-import { u as Route$11 } from "./router-CWDFWft-.mjs";
+import { u as Route$11 } from "./router-CQg7A0l5.mjs";
 import { n as SiteShell } from "./site-shell-CDjp89lU.mjs";
-//#region node_modules/.nitro/vite/services/ssr/assets/routes-BpwarK1V.js
+//#region node_modules/.nitro/vite/services/ssr/assets/routes-DkA4sABb.js
 var import_jsx_runtime = require_jsx_runtime();
 function Home() {
 	const { upcoming, reviews, settings, albums } = Route$11.useLoaderData();
@@ -26,7 +26,7 @@ function Home() {
 					}), /* @__PURE__ */ (0, import_jsx_runtime.jsx)("img", {
 						src: heroMobile,
 						alt: "A guitar and harmonica on a canoe looking toward downtown Lakefield, Ontario",
-						className: "absolute inset-0 h-full w-full object-cover object-[50%_62%] md:object-[48%_62%]"
+						className: "absolute inset-0 h-full w-full object-cover object-[50%_48%] md:object-[52%_58%]"
 					})] }),
 					/* @__PURE__ */ (0, import_jsx_runtime.jsx)("div", { className: "absolute inset-0 bg-gradient-to-t from-ink/88 via-ink/35 to-ink/10" }),
 					/* @__PURE__ */ (0, import_jsx_runtime.jsxs)("div", {

@@ -1,11 +1,11 @@
 import { o as __toESM } from "../_runtime.mjs";
 import { C as require_jsx_runtime, U as require_react, y as Link } from "../_libs/@tanstack/react-router+[...].mjs";
 import { o as FileText } from "../_libs/lucide-react.mjs";
-import { s as Route$6 } from "./router-CWDFWft-.mjs";
+import { s as Route$6 } from "./router-CQg7A0l5.mjs";
 import { n as SiteShell, t as PageIntro } from "./site-shell-CDjp89lU.mjs";
 import { r as SEED_LYRICS } from "./content-C7zs6QT1.mjs";
 import { t as PdfModal } from "./pdf-modal-CyZhRcal.mjs";
-//#region node_modules/.nitro/vite/services/ssr/assets/lyrics-zffdcB9T.js
+//#region node_modules/.nitro/vite/services/ssr/assets/lyrics-CB-BM9PM.js
 var import_react = /* @__PURE__ */ __toESM(require_react());
 var import_jsx_runtime = require_jsx_runtime();
 function LyricsPage() {

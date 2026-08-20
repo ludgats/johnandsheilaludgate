@@ -1,7 +1,7 @@
 import { C as require_jsx_runtime } from "../_libs/@tanstack/react-router+[...].mjs";
-import { i as Route$3 } from "./router-CWDFWft-.mjs";
+import { i as Route$3 } from "./router-CQg7A0l5.mjs";
 import { n as SiteShell, t as PageIntro } from "./site-shell-CDjp89lU.mjs";
-//#region node_modules/.nitro/vite/services/ssr/assets/reviews-B2AmNCf2.js
+//#region node_modules/.nitro/vite/services/ssr/assets/reviews-2MlDuswJ.js
 var import_jsx_runtime = require_jsx_runtime();
 function ReviewsPage() {
 	const { settings, reviews } = Route$3.useLoaderData();

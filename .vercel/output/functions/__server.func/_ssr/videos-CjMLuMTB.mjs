@@ -1,9 +1,9 @@
 import { o as __toESM } from "../_runtime.mjs";
 import { C as require_jsx_runtime, U as require_react } from "../_libs/@tanstack/react-router+[...].mjs";
 import { r as Play } from "../_libs/lucide-react.mjs";
-import { n as Route$1 } from "./router-CWDFWft-.mjs";
+import { n as Route$1 } from "./router-CQg7A0l5.mjs";
 import { n as SiteShell, t as PageIntro } from "./site-shell-CDjp89lU.mjs";
-//#region node_modules/.nitro/vite/services/ssr/assets/videos-CFv0wwNZ.js
+//#region node_modules/.nitro/vite/services/ssr/assets/videos-CjMLuMTB.js
 var import_react = /* @__PURE__ */ __toESM(require_react());
 var import_jsx_runtime = require_jsx_runtime();
 function VideosPage() {

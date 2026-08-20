@@ -1,9 +1,9 @@
 import { C as require_jsx_runtime } from "../_libs/@tanstack/react-router+[...].mjs";
 import { n as formatShowTime, t as formatShowDate } from "./format-Cd_nuLaQ.mjs";
 import { a as MapPin, s as Calendar } from "../_libs/lucide-react.mjs";
-import { r as Route$2 } from "./router-CWDFWft-.mjs";
+import { r as Route$2 } from "./router-CQg7A0l5.mjs";
 import { n as SiteShell, t as PageIntro } from "./site-shell-CDjp89lU.mjs";
-//#region node_modules/.nitro/vite/services/ssr/assets/shows-neII60BJ.js
+//#region node_modules/.nitro/vite/services/ssr/assets/shows-82XKuO50.js
 var import_jsx_runtime = require_jsx_runtime();
 function ShowsPage() {
 	const { settings, upcoming, recent } = Route$2.useLoaderData();

@@ -3,9 +3,9 @@ import { C as require_jsx_runtime, U as require_react } from "../_libs/@tanstack
 import { t as Button } from "./button-DxWxNcod.mjs";
 import { n as Label, r as Textarea, t as Input } from "./input-BvSu_vpZ.mjs";
 import { n as toast } from "../_libs/sonner.mjs";
-import { S as sendMessage, c as Route$8 } from "./router-CWDFWft-.mjs";
+import { S as sendMessage, c as Route$8 } from "./router-CQg7A0l5.mjs";
 import { n as SiteShell, t as PageIntro } from "./site-shell-CDjp89lU.mjs";
-//#region node_modules/.nitro/vite/services/ssr/assets/contact-DDxrDlU6.js
+//#region node_modules/.nitro/vite/services/ssr/assets/contact-B6TYfHQt.js
 var import_react = /* @__PURE__ */ __toESM(require_react());
 var import_jsx_runtime = require_jsx_runtime();
 function ContactPage() {

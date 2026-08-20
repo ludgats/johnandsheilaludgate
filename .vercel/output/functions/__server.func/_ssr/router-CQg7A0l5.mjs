@@ -34,7 +34,7 @@ var deletePhoto = createServerFn({ method: "POST" }).middleware([authMiddleware]
 var sendMessage = createServerFn({ method: "POST" }).validator((d) => d).handler(createSsrRpc("667b333ed73061ecd588c4aeb3b28ada7312c778ffabb7797ee9a39aa13288c0"));
 var deleteMessage = createServerFn({ method: "POST" }).middleware([authMiddleware]).validator((id) => id).handler(createSsrRpc("e4ebc3866f491a35fc10b806d0ca04fc174abb16cac56dd4bad93007f192b041"));
 //#endregion
-//#region node_modules/.nitro/vite/services/ssr/assets/router-CWDFWft-.js
+//#region node_modules/.nitro/vite/services/ssr/assets/router-CQg7A0l5.js
 var import_react = /* @__PURE__ */ __toESM(require_react());
 var import_jsx_runtime = require_jsx_runtime();
 function AppErrorComponent({ error }) {
@@ -303,7 +303,7 @@ function PreviewHostBridge() {
 	}, [router]);
 	return null;
 }
-var styles_default = "/assets/styles-CpvaCSBg.css";
+var styles_default = "/assets/styles-DA47qaIk.css";
 var APP_NAME = "John & Sheila Ludgate";
 var Route$12 = createRootRoute({
 	head: () => ({
@@ -358,51 +358,51 @@ var Route$12 = createRootRoute({
 		] })]
 	})
 });
-var $$splitComponentImporter$10 = () => import("./routes-BpwarK1V.mjs");
+var $$splitComponentImporter$10 = () => import("./routes-DkA4sABb.mjs");
 var Route$11 = createFileRoute("/")({
 	loader: () => getPublicSite(),
 	component: lazyRouteComponent($$splitComponentImporter$10, "component")
 });
 var $$splitComponentImporter$9 = () => import("./admin-BAMUoJBp.mjs");
 var Route$10 = createFileRoute("/admin")({ component: lazyRouteComponent($$splitComponentImporter$9, "component") });
-var $$splitComponentImporter$8 = () => import("./bio-B9YOCwuR.mjs");
+var $$splitComponentImporter$8 = () => import("./bio-Bbi59f97.mjs");
 var Route$9 = createFileRoute("/bio")({
 	loader: () => getPublicSite(),
 	component: lazyRouteComponent($$splitComponentImporter$8, "component")
 });
-var $$splitComponentImporter$7 = () => import("./contact-DDxrDlU6.mjs");
+var $$splitComponentImporter$7 = () => import("./contact-B6TYfHQt.mjs");
 var Route$8 = createFileRoute("/contact")({
 	loader: () => getPublicSite(),
 	component: lazyRouteComponent($$splitComponentImporter$7, "component")
 });
 var $$splitComponentImporter$6 = () => import("./login-DiEFAmWb.mjs");
 var Route$7 = createFileRoute("/login")({ component: lazyRouteComponent($$splitComponentImporter$6, "component") });
-var $$splitComponentImporter$5 = () => import("./lyrics-zffdcB9T.mjs");
+var $$splitComponentImporter$5 = () => import("./lyrics-CB-BM9PM.mjs");
 var Route$6 = createFileRoute("/lyrics")({
 	loader: () => getPublicSite(),
 	component: lazyRouteComponent($$splitComponentImporter$5, "component")
 });
-var $$splitComponentImporter$4 = () => import("./music-CY_w66nF.mjs");
+var $$splitComponentImporter$4 = () => import("./music-CBP0M34m.mjs");
 var Route$5 = createFileRoute("/music")({
 	loader: () => getPublicSite(),
 	component: lazyRouteComponent($$splitComponentImporter$4, "component")
 });
-var $$splitComponentImporter$3 = () => import("./photos-jhRbhNRc.mjs");
+var $$splitComponentImporter$3 = () => import("./photos-Fh957IIN.mjs");
 var Route$4 = createFileRoute("/photos")({
 	loader: () => getPublicSite(),
 	component: lazyRouteComponent($$splitComponentImporter$3, "component")
 });
-var $$splitComponentImporter$2 = () => import("./reviews-B2AmNCf2.mjs");
+var $$splitComponentImporter$2 = () => import("./reviews-2MlDuswJ.mjs");
 var Route$3 = createFileRoute("/reviews")({
 	loader: () => getPublicSite(),
 	component: lazyRouteComponent($$splitComponentImporter$2, "component")
 });
-var $$splitComponentImporter$1 = () => import("./shows-neII60BJ.mjs");
+var $$splitComponentImporter$1 = () => import("./shows-82XKuO50.mjs");
 var Route$2 = createFileRoute("/shows")({
 	loader: () => getPublicSite(),
 	component: lazyRouteComponent($$splitComponentImporter$1, "component")
 });
-var $$splitComponentImporter = () => import("./videos-CFv0wwNZ.mjs");
+var $$splitComponentImporter = () => import("./videos-CjMLuMTB.mjs");
 var Route$1 = createFileRoute("/videos")({
 	loader: () => getPublicSite(),
 	component: lazyRouteComponent($$splitComponentImporter, "component")

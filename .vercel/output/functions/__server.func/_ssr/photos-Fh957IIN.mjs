@@ -1,7 +1,7 @@
 import { C as require_jsx_runtime } from "../_libs/@tanstack/react-router+[...].mjs";
-import { a as Route$4 } from "./router-CWDFWft-.mjs";
+import { a as Route$4 } from "./router-CQg7A0l5.mjs";
 import { n as SiteShell, t as PageIntro } from "./site-shell-CDjp89lU.mjs";
-//#region node_modules/.nitro/vite/services/ssr/assets/photos-jhRbhNRc.js
+//#region node_modules/.nitro/vite/services/ssr/assets/photos-Fh957IIN.js
 var import_jsx_runtime = require_jsx_runtime();
 function PhotosPage() {
 	const { settings, photos } = Route$4.useLoaderData();

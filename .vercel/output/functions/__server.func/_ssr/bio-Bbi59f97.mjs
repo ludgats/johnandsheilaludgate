@@ -1,7 +1,7 @@
 import { C as require_jsx_runtime } from "../_libs/@tanstack/react-router+[...].mjs";
-import { l as Route$9 } from "./router-CWDFWft-.mjs";
+import { l as Route$9 } from "./router-CQg7A0l5.mjs";
 import { n as SiteShell, t as PageIntro } from "./site-shell-CDjp89lU.mjs";
-//#region node_modules/.nitro/vite/services/ssr/assets/bio-B9YOCwuR.js
+//#region node_modules/.nitro/vite/services/ssr/assets/bio-Bbi59f97.js
 var import_jsx_runtime = require_jsx_runtime();
 function BioPage() {
 	const { settings } = Route$9.useLoaderData();
