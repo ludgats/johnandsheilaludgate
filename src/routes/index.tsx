@@ -15,32 +15,29 @@ function Home() {
   const latest = albums[0];
   const featured = reviews.filter((r) => r.featured).slice(0, 3);
   const nextShows = upcoming.slice(0, 4);
-  const heroWide = `${settings.heroImage}${settings.heroImage.includes("?") || settings.heroImage.startsWith("data:") ? "" : "?v=6"}`;
-  const heroMobile = `${settings.heroImageMobile}${settings.heroImageMobile.includes("?") || settings.heroImageMobile.startsWith("data:") ? "" : "?v=6"}`;
+  const heroWide = `${settings.heroImage}${settings.heroImage.includes("?") || settings.heroImage.startsWith("data:") ? "" : "?v=12"}`;
+  const heroMobile = `${settings.heroImageMobile}${settings.heroImageMobile.includes("?") || settings.heroImageMobile.startsWith("data:") ? "" : "?v=12"}`;
 
   return (
     <SiteShell phone={settings.phone} email={settings.email}>
-      <section className="relative min-h-[78vh] overflow-hidden bg-walnut md:min-h-[72vh]">
+      <section className="relative overflow-hidden bg-walnut aspect-[9/16] max-h-[78vh] md:aspect-video md:max-h-none">
         <picture>
           <source media="(min-width: 768px)" srcSet={heroWide} />
           <img
-            src={heroMobile}
-            alt="A guitar and harmonica on a canoe at Youngs Point, with the bridges and cemetery hillside beyond"
-            className="absolute inset-0 h-full w-full object-cover object-[42%_52%] md:object-[32%_62%]"
+            src={heroWide}
+            alt="Guitars and drums on the Burlington Canal pier looking toward the lift bridge, Skyway, and Hamilton"
+            className="absolute inset-0 h-full w-full object-cover object-center"
           />
         </picture>
-        <div className="absolute inset-0 bg-gradient-to-t from-ink/88 via-ink/35 to-ink/10" />
-        <div className="relative mx-auto flex min-h-[78vh] max-w-6xl flex-col justify-end px-4 pb-10 pt-28 sm:px-6 sm:pb-16 md:min-h-[72vh]">
+        <div className="absolute inset-0 bg-gradient-to-b from-ink/92 via-ink/60 via-40% to-transparent to-[62%]" />
+        <div className="relative mx-auto flex h-full max-w-6xl flex-col justify-start px-4 pt-20 sm:px-6 md:pt-28">
           <p className="text-xs font-semibold uppercase tracking-[0.22em] text-surface/80">
             Burlington, Ontario
           </p>
-          <h1 className="mt-2 max-w-3xl font-display text-4xl font-semibold leading-[1.08] tracking-tight text-surface md:mt-3 md:text-6xl md:leading-[1.05]">
+          <h1 className="mt-2 max-w-3xl font-display text-3xl font-semibold leading-[1.08] tracking-tight text-surface sm:text-4xl md:mt-3 md:text-6xl md:leading-[1.05]">
             John & Sheila Ludgate
           </h1>
-          <p className="mt-3 max-w-xl text-base leading-relaxed text-surface/85 md:mt-5 md:text-lg">
-            Folk songs and family harmony.
-          </p>
-          <div className="mt-6 flex flex-wrap gap-3 md:mt-8">
+          <div className="mt-4 flex flex-wrap gap-3 md:mt-6">
             <Link to="/shows">
               <Button size="lg">See upcoming shows</Button>
             </Link>
@@ -48,7 +45,7 @@ function Home() {
               <Button
                 size="lg"
                 variant="secondary"
-                className="border-surface/20 bg-surface/10 text-surface hover:bg-surface/20"
+                className="border-surface/25 bg-surface/15 text-surface hover:bg-surface/25"
               >
                 Listen now
               </Button>
@@ -114,9 +111,6 @@ function Home() {
         <div className="lg:col-span-7">
           <p className="text-xs font-semibold uppercase tracking-[0.2em] text-pine">On the calendar</p>
           <h2 className="mt-2 font-display text-3xl font-semibold tracking-tight">Upcoming shows</h2>
-          <p className="mt-2 text-sm text-muted">
-            Nearly a thousand rooms since 2009. Here is what is next.
-          </p>
           <ul className="mt-6 divide-y divide-line border-y border-line">
             {nextShows.length === 0 ? (
               <li className="py-6 text-sm text-muted">New dates will be posted here.</li>

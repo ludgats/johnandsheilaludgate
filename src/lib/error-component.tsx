@@ -11,6 +11,13 @@ export function AppErrorComponent({ error }: ErrorComponentProps) {
       <p className="max-w-md text-sm break-words text-muted">
         {error.message || "An unexpected error occurred. Try reloading the page."}
       </p>
+      <button
+        type="button"
+        className="mt-2 rounded-lg bg-pine px-4 py-2 text-sm font-medium text-surface hover:bg-pine-dark"
+        onClick={() => window.location.reload()}
+      >
+        Reload the page
+      </button>
     </main>
   );
 }

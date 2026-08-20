@@ -234,6 +234,6 @@ export const DEFAULT_SETTINGS = {
   homeQuote:
     "Ludgate finds the beauty that lies at the intersection of two generations while telling stories that speak directly to the human condition.",
   homeQuoteBy: "Music Notes Global",
-  heroImage: "/media/hero-youngs-wide.jpg",
-  heroImageMobile: "/media/hero-youngs-mobile.jpg",
+  heroImage: "/media/hero-burlington-wide.jpg",
+  heroImageMobile: "/media/hero-burlington-mobile.jpg",
 };

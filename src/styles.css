@@ -5,17 +5,17 @@
   --font-display: "Newsreader", Georgia, "Times New Roman", serif;
   --font-sans: "Figtree", ui-sans-serif, system-ui, sans-serif;
 
-  --color-bg: #f3eee4;
-  --color-paper: #ebe3d4;
-  --color-surface: #fffaf1;
-  --color-ink: #1c1712;
-  --color-muted: #6b6156;
-  --color-faint: #8a8074;
-  --color-line: #d5cbb9;
-  --color-pine: #3f5346;
-  --color-pine-dark: #2c3b32;
-  --color-pine-soft: #dfe6df;
-  --color-walnut: #4a3428;
+  --color-bg: #cbb79a;
+  --color-paper: #c2ad8f;
+  --color-surface: #dcc4a6;
+  --color-ink: #14100c;
+  --color-muted: #52483e;
+  --color-faint: #6e6256;
+  --color-line: #a89278;
+  --color-pine: #2c3f39;
+  --color-pine-dark: #1e2c28;
+  --color-pine-soft: #b7c4be;
+  --color-walnut: #433024;
   --color-danger: #8f3d2b;
 
   --radius-sm: 8px;
