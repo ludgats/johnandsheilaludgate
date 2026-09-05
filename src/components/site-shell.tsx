@@ -29,7 +29,7 @@ export function SiteShell({
 
   return (
     <div className="min-h-dvh bg-bg text-ink" data-app="ludgate">
-      <header className="sticky top-0 z-40 border-b border-line/80 bg-bg/92 backdrop-blur-md">
+      <header className="sticky top-0 z-40 border-b border-line/80 bg-surface/95 backdrop-blur-md">
         <div className="mx-auto flex max-w-6xl items-center justify-between gap-4 px-4 py-3 sm:px-6">
           <Link to="/" className="group min-w-0" onClick={() => setOpen(false)}>
             <p className="font-display text-xl font-semibold tracking-tight text-ink sm:text-2xl">

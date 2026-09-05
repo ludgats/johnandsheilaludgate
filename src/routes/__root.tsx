@@ -17,7 +17,7 @@ export const Route = createRootRoute({
         content:
           "Official site of John and Sheila Ludgate — folk and family songs from Burlington, Ontario. Shows, albums, videos and how to buy CDs.",
       },
-      { name: "theme-color", content: "#f3eee4" },
+      { name: "theme-color", content: "#f6f1e8" },
     ],
     links: [
       { rel: "icon", type: "image/svg+xml", href: "/favicon.svg" },
