@@ -1,5 +1,5 @@
 import { createServerFn } from "@tanstack/react-start";
-import { getSql, type Sql } from "@/lib/db";
+import { getSql, repairSiteSchema, type Sql } from "@/lib/db";
 import { authMiddleware } from "@/lib/auth/middleware";
 import { SEED_ALBUMS, SEED_SHOWS } from "./seed-data";
 import {
@@ -66,7 +66,16 @@ const seedLock = { done: false };
 
 async function ensureSeeded(sql: Sql) {
   if (seedLock.done) return;
-  const existing = await sql<{ c: number }>`select count(*)::int as c from shows`;
+  let existing: { c: number }[];
+  try {
+    existing = await sql<{ c: number }>`select count(*)::int as c from shows`;
+  } catch (err) {
+    const code = (err as { code?: string } | null)?.code;
+    const msg = err instanceof Error ? err.message : String(err);
+    if (code !== "42P01" && !/relation ["']?shows["']? does not exist/i.test(msg)) throw err;
+    await repairSiteSchema();
+    existing = await sql<{ c: number }>`select count(*)::int as c from shows`;
+  }
   if ((existing[0]?.c ?? 0) > 0) {
     seedLock.done = true;
     return;
