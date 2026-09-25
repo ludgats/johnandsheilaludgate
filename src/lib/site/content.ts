@@ -33,17 +33,17 @@ export const SEED_REVIEWS: SeedReview[] = [
   },
   {
     quote:
-      "John and Sheila Ludgate and family have been putting out quality music for quite a while now. Their folk tunes have been consistently strong through the years, but the addition of the younger family members have added some punch and electric to some songs.",
-    attribution: "Jim Marino",
-    publication: "Penguin Eggs Magazine — 2018 Top 10 CDs",
+      "John and Sheila are past winners of the Folk Music Ontario Songs from the Heart Award. Luke, Anthony and Shane Ludgate have been seen on Aux TV and MuchLoud with their band Beautiful Nothing, but when they’re all together, John and Sheila’s folk leanings dominate the sound. The strongest evidence of the younger Ludgates’ indie-rock leanings is found in the tasteful electric guitar solos, which reminded the moose a little of later Pink Floyd. The slower songs are really the stand-outs here.",
+    attribution: "Roots Music Canada",
+    publication: "Roots Music Canada",
     featured: true,
   },
   {
     quote:
-      "John and Sheila are past winners of the Folk Music Ontario Songs from the Heart Award. Luke, Anthony and Shane Ludgate have been seen on Aux TV and MuchLoud with their band Beautiful Nothing, but when they’re all together, John and Sheila’s folk leanings dominate the sound. The strongest evidence of the younger Ludgates’ indie-rock leanings is found in the tasteful electric guitar solos, which reminded the moose a little of later Pink Floyd. The slower songs are really the stand-outs here.",
-    attribution: "Roots Music Canada",
-    publication: "Roots Music Canada",
-    featured: false,
+      "John and Sheila Ludgate and family have been putting out quality music for quite a while now. Their folk tunes have been consistently strong through the years, but the addition of the younger family members have added some punch and electric to some songs.",
+    attribution: "Jim Marino",
+    publication: "Penguin Eggs Magazine — 2018 Top 10 CDs",
+    featured: true,
   },
   {
     quote:

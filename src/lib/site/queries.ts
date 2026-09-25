@@ -132,6 +132,17 @@ async function ensureSeeded(sql: Sql) {
     );
   }
 
+  await sql`
+    update reviews
+    set featured = true, sort_order = 2
+    where quote like 'John and Sheila are past winners of the Folk Music Ontario%'
+  `;
+  await sql`
+    update reviews
+    set sort_order = 3
+    where quote like 'John and Sheila Ludgate and family have been putting out quality music%'
+  `;
+
   seedLock.done = true;
 }
 
