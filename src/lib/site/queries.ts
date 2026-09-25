@@ -1,7 +1,8 @@
 import { createServerFn } from "@tanstack/react-start";
 import { getSql, repairSiteSchema, type Sql } from "@/lib/db";
 import { authMiddleware } from "@/lib/auth/middleware";
-import { SEED_ALBUMS, SEED_SHOWS } from "./seed-data";
+import { SEED_ALBUMS } from "./seed-data";
+import SHOW_ARCHIVE from "./shows-archive.json";
 import {
   DEFAULT_SETTINGS,
   SEED_PHOTOS,
@@ -76,47 +77,59 @@ async function ensureSeeded(sql: Sql) {
     await repairSiteSchema();
     existing = await sql<{ c: number }>`select count(*)::int as c from shows`;
   }
-  if ((existing[0]?.c ?? 0) > 0) {
-    seedLock.done = true;
-    return;
+  if ((existing[0]?.c ?? 0) === 0) {
+    for (const [key, value] of Object.entries(DEFAULT_SETTINGS)) {
+      await sql`insert into site_settings (key, value) values (${key}, ${value}) on conflict (key) do nothing`;
+    }
+
+    let i = 0;
+    for (const r of SEED_REVIEWS) {
+      await sql`
+        insert into reviews (quote, attribution, publication, featured, sort_order)
+        values (${r.quote}, ${r.attribution}, ${r.publication}, ${r.featured}, ${i})
+      `;
+      i += 1;
+    }
+
+    i = 0;
+    for (const v of SEED_VIDEOS) {
+      await sql`
+        insert into videos (title, youtube_id, note, sort_order)
+        values (${v.title}, ${v.youtubeId}, ${v.note}, ${i})
+      `;
+      i += 1;
+    }
+
+    i = 0;
+    for (const p of SEED_PHOTOS) {
+      await sql`
+        insert into photos (src, caption, sort_order)
+        values (${p.src}, ${p.caption}, ${i})
+      `;
+      i += 1;
+    }
   }
 
-  for (const [key, value] of Object.entries(DEFAULT_SETTINGS)) {
-    await sql`insert into site_settings (key, value) values (${key}, ${value}) on conflict (key) do nothing`;
-  }
-
-  for (const s of SEED_SHOWS) {
-    await sql`
-      insert into shows (show_date, show_time, venue, address, city, province)
-      values (${s.date}, ${s.time}, ${s.venue}, ${s.address}, ${s.city}, ${s.province})
-    `;
-  }
-
-  let i = 0;
-  for (const r of SEED_REVIEWS) {
-    await sql`
-      insert into reviews (quote, attribution, publication, featured, sort_order)
-      values (${r.quote}, ${r.attribution}, ${r.publication}, ${r.featured}, ${i})
-    `;
-    i += 1;
-  }
-
-  i = 0;
-  for (const v of SEED_VIDEOS) {
-    await sql`
-      insert into videos (title, youtube_id, note, sort_order)
-      values (${v.title}, ${v.youtubeId}, ${v.note}, ${i})
-    `;
-    i += 1;
-  }
-
-  i = 0;
-  for (const p of SEED_PHOTOS) {
-    await sql`
-      insert into photos (src, caption, sort_order)
-      values (${p.src}, ${p.caption}, ${i})
-    `;
-    i += 1;
+  const have = await sql<{ d: string; t: string | null; venue: string }>`
+    select show_date::text as d, show_time as t, venue from shows
+  `;
+  const keys = new Set(have.map((r) => `${String(r.d).slice(0, 10)}|${r.t ?? ""}|${r.venue.toLowerCase()}`));
+  const missing = SHOW_ARCHIVE.filter(
+    (s) => !keys.has(`${s.date}|${s.time}|${s.venue.toLowerCase()}`),
+  );
+  const batch = 40;
+  for (let i = 0; i < missing.length; i += batch) {
+    const chunk = missing.slice(i, i + batch);
+    const values: unknown[] = [];
+    const tuples = chunk.map((s, n) => {
+      const b = n * 6;
+      values.push(s.date, s.time || null, s.venue, s.address || null, s.city || null, s.province || null);
+      return `($${b + 1},$${b + 2},$${b + 3},$${b + 4},$${b + 5},$${b + 6})`;
+    });
+    await sql.query(
+      `insert into shows (show_date, show_time, venue, address, city, province) values ${tuples.join(",")}`,
+      values,
+    );
   }
 
   seedLock.done = true;
@@ -170,7 +183,6 @@ export const getPublicSite = createServerFn({ method: "GET" }).handler(async () 
     from shows
     where show_date < ${today}
     order by show_date desc
-    limit 8
   `;
   const reviews = await sql<ReviewRow>`
     select id, quote, attribution, publication, featured

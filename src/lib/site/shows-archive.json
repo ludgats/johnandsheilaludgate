@@ -1,0 +1,7586 @@
+[
+  {
+    "date": "2026-12-03",
+    "time": "15:00",
+    "venue": "The Kensington",
+    "address": "25 Lakeshore Rd W",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2026-11-19",
+    "time": "14:00",
+    "venue": "Appleby Place",
+    "address": "500 Appleby Line",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2026-11-13",
+    "time": "14:30",
+    "venue": "Birkdale Place",
+    "address": "611 Farmstead Dr",
+    "city": "Milton",
+    "province": "ON"
+  },
+  {
+    "date": "2026-11-12",
+    "time": "14:45",
+    "venue": "Christopher Terrace",
+    "address": "3131 New St",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2026-11-05",
+    "time": "14:15",
+    "venue": "The Beechwood",
+    "address": "1500 Rathburn Rd E",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2026-10-30",
+    "time": "14:30",
+    "venue": "Lundy Manor",
+    "address": "7860 Lundy's Ln",
+    "city": "Niagara Falls",
+    "province": "ON"
+  },
+  {
+    "date": "2026-10-24",
+    "time": "14:00",
+    "venue": "The Village Of Wentworth Heights",
+    "address": "1620 Upper Wentworth St",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2026-10-15",
+    "time": "14:15",
+    "venue": "The Beechwood",
+    "address": "1500 Rathburn Rd E",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2026-10-13",
+    "time": "19:15",
+    "venue": "The Village Of Tansley Woods",
+    "address": "4100 Upper Middle Rd",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2026-10-08",
+    "time": "15:00",
+    "venue": "Churchill Place",
+    "address": "345 Church St",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2026-09-10",
+    "time": "15:00",
+    "venue": "The Kensington",
+    "address": "25 Lakeshore Rd W",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2026-09-08",
+    "time": "14:00",
+    "venue": "The Village Of Riverside Glen",
+    "address": "60 Woodlawn Rd E",
+    "city": "Guelph",
+    "province": "ON"
+  },
+  {
+    "date": "2026-08-28",
+    "time": "14:30",
+    "venue": "Park View",
+    "address": "254 Dalhousie St",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2026-08-09",
+    "time": "13:45",
+    "venue": "The Court At Rushdale",
+    "address": "1360 Upper Sherman Ave",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2026-08-06",
+    "time": "14:15",
+    "venue": "The Beechwood",
+    "address": "1500 Rathburn Rd E",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2026-07-31",
+    "time": "14:00",
+    "venue": "Appleby Place",
+    "address": "500 Appleby Line",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2026-07-16",
+    "time": "14:15",
+    "venue": "The Beechwood",
+    "address": "1500 Rathburn Rd E",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2026-07-09",
+    "time": "14:45",
+    "venue": "Christopher Terrace",
+    "address": "3131 New St",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2026-07-08",
+    "time": "15:00",
+    "venue": "Churchill Place",
+    "address": "345 Church St",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2026-07-01",
+    "time": "14:00",
+    "venue": "Burlington Gardens",
+    "address": "300 Plains Rd W",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2026-06-30",
+    "time": "14:15",
+    "venue": "Hampton Terrace",
+    "address": "75 Plains Road West",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2026-05-28",
+    "time": "15:00",
+    "venue": "The Kensington",
+    "address": "25 Lakeshore Rd W",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2026-05-22",
+    "time": "14:30",
+    "venue": "Birkdale Place",
+    "address": "611 Farmstead Dr",
+    "city": "Milton",
+    "province": "ON"
+  },
+  {
+    "date": "2026-05-13",
+    "time": "14:30",
+    "venue": "Lundy Manor",
+    "address": "7860 Lundy's Ln",
+    "city": "Niagara Falls",
+    "province": "ON"
+  },
+  {
+    "date": "2026-05-12",
+    "time": "19:15",
+    "venue": "The Village Of Tansley Woods",
+    "address": "4100 Upper Middle Rd",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2026-05-09",
+    "time": "14:00",
+    "venue": "The Village Of Wentworth Heights",
+    "address": "1620 Upper Wentworth St",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2026-05-07",
+    "time": "14:15",
+    "venue": "The Beechwood",
+    "address": "1500 Rathburn Rd E",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2026-04-16",
+    "time": "14:15",
+    "venue": "The Village Of Riverside Glen",
+    "address": "60 Woodlawn Rd E",
+    "city": "Guelph",
+    "province": "ON"
+  },
+  {
+    "date": "2026-04-12",
+    "time": "13:45",
+    "venue": "The Court At Rushdale",
+    "address": "1360 Upper Sherman Ave",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2026-04-09",
+    "time": "14:15",
+    "venue": "The Beechwood",
+    "address": "1500 Rathburn Rd E",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2026-04-08",
+    "time": "14:15",
+    "venue": "Hampton Terrace",
+    "address": "75 Plains Road West",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2026-03-27",
+    "time": "14:30",
+    "venue": "254 Dalhousie St Park View",
+    "address": "Brantford, ON N3S 3V2",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2026-03-25",
+    "time": "14:00",
+    "venue": "SLEC",
+    "address": "Suite 120, 2030 Bristol Circle",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2026-03-17",
+    "time": "14:30",
+    "venue": "Birkdale Place",
+    "address": "611 Farmstead Dr",
+    "city": "Milton",
+    "province": "ON"
+  },
+  {
+    "date": "2026-02-25",
+    "time": "14:00",
+    "venue": "St. Joseph's Villa",
+    "address": "56 Governors Rd",
+    "city": "Dundas",
+    "province": "ON"
+  },
+  {
+    "date": "2026-02-19",
+    "time": "14:45",
+    "venue": "Christopher Terrace",
+    "address": "3131 New St",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2026-02-13",
+    "time": "14:15",
+    "venue": "Hampton Terrace",
+    "address": "75 Plains Road West",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2026-02-11",
+    "time": "15:00",
+    "venue": "St. Joseph's Villa",
+    "address": "56 Governors Rd",
+    "city": "Dundas",
+    "province": "ON"
+  },
+  {
+    "date": "2026-02-05",
+    "time": "15:00",
+    "venue": "The Kensington",
+    "address": "25 Lakeshore Rd W",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2026-01-27",
+    "time": "19:00",
+    "venue": "Shalom Village",
+    "address": "70 Macklin St N",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2026-01-20",
+    "time": "19:15",
+    "venue": "The Village Of Tansley Woods",
+    "address": "4100 Upper Middle Rd",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2026-01-15",
+    "time": "14:00",
+    "venue": "Appleby Place",
+    "address": "500 Appleby Line",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2026-01-08",
+    "time": "14:15",
+    "venue": "The Beechwood",
+    "address": "1500 Rathburn Rd E",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2025-12-12",
+    "time": "13:30",
+    "venue": "Park Lane Terrace",
+    "address": "295 Grand River St N",
+    "city": "Paris",
+    "province": "ON"
+  },
+  {
+    "date": "2025-12-10",
+    "time": "14:15",
+    "venue": "Hampton Terrace",
+    "address": "75 Plains Road West",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2025-12-06",
+    "time": "14:00",
+    "venue": "St. Joseph's Villa",
+    "address": "56 Governors Rd",
+    "city": "Dundas",
+    "province": "ON"
+  },
+  {
+    "date": "2025-12-03",
+    "time": "15:00",
+    "venue": "Retirement Residence",
+    "address": "175 Rutledge Rd",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2025-11-26",
+    "time": "15:00",
+    "venue": "Seasons Stoney Creek",
+    "address": "8 Shoreview Pl",
+    "city": "Stoney Creek",
+    "province": "ON"
+  },
+  {
+    "date": "2025-11-20",
+    "time": "14:45",
+    "venue": "Christopher Terrace",
+    "address": "3131 New St",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2025-11-19",
+    "time": "14:30",
+    "venue": "Trafalgar Lodge",
+    "address": "299 Randall St",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2025-11-15",
+    "time": "17:30",
+    "venue": "Paris Legion",
+    "address": "70 William St",
+    "city": "Paris",
+    "province": "ON"
+  },
+  {
+    "date": "2025-11-07",
+    "time": "15:00",
+    "venue": "The Kensington",
+    "address": "25 Lakeshore Rd W",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2025-11-01",
+    "time": "13:45",
+    "venue": "The Court At Rushdale",
+    "address": "1360 Upper Sherman Ave",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2025-10-23",
+    "time": "14:30",
+    "venue": "Lundy Manor",
+    "address": "7860 Lundy's Ln",
+    "city": "Niagara Falls",
+    "province": "ON"
+  },
+  {
+    "date": "2025-10-15",
+    "time": "14:15",
+    "venue": "Hampton Terrace",
+    "address": "75 Plains Road West",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2025-10-02",
+    "time": "14:00",
+    "venue": "Appleby Place",
+    "address": "500 Appleby Line",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2025-09-26",
+    "time": "15:00",
+    "venue": "The Village Of Riverside Glen",
+    "address": "60 Woodlawn Rd E",
+    "city": "Guelph",
+    "province": "ON"
+  },
+  {
+    "date": "2025-09-20",
+    "time": "14:00",
+    "venue": "The Village Of Wentworth Heights",
+    "address": "1620 Upper Wentworth St",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2025-09-11",
+    "time": "14:15",
+    "venue": "The Beechwood",
+    "address": "1500 Rathburn Rd E",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2025-09-09",
+    "time": "19:15",
+    "venue": "The Village Of Tansley Woods",
+    "address": "4100 Upper Middle Rd",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2025-09-05",
+    "time": "14:30",
+    "venue": "Heritage Place",
+    "address": "4151 Kilmer Dr",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2025-08-21",
+    "time": "13:30",
+    "venue": "St. Joseph's Villa",
+    "address": "56 Governors Rd",
+    "city": "Dundas",
+    "province": "ON"
+  },
+  {
+    "date": "2025-08-13",
+    "time": "14:15",
+    "venue": "Hampton Terrace",
+    "address": "75 Plains Road West",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2025-08-07",
+    "time": "15:30",
+    "venue": "The Beechwood",
+    "address": "1500 Rathburn Rd E",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2025-07-23",
+    "time": "15:00",
+    "venue": "Retirement Residence",
+    "address": "175 Rutledge Rd",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2025-07-18",
+    "time": "14:30",
+    "venue": "Trafalgar Lodge",
+    "address": "299 Randall St",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2025-07-16",
+    "time": "15:00",
+    "venue": "Seasons Stoney Creek",
+    "address": "8 Shoreview Pl",
+    "city": "Stoney Creek",
+    "province": "ON"
+  },
+  {
+    "date": "2025-07-01",
+    "time": "14:30",
+    "venue": "Birkdale Place",
+    "address": "611 Farmstead Dr",
+    "city": "Milton",
+    "province": "ON"
+  },
+  {
+    "date": "2025-06-30",
+    "time": "20:00",
+    "venue": "Hampton Terrace",
+    "address": "75 Plains Road West",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2025-06-26",
+    "time": "14:30",
+    "venue": "Lundy Manor",
+    "address": "7860 Lundy's Ln",
+    "city": "Niagara Falls",
+    "province": "ON"
+  },
+  {
+    "date": "2025-06-19",
+    "time": "15:00",
+    "venue": "The Kensington",
+    "address": "25 Lakeshore Rd W",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2025-06-14",
+    "time": "14:30",
+    "venue": "The Village Of Wentworth Heights",
+    "address": "1620 Upper Wentworth St",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2025-06-11",
+    "time": "15:00",
+    "venue": "Churchill Place",
+    "address": "345 Church St",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2025-06-09",
+    "time": "14:00",
+    "venue": "SLEC",
+    "address": "Suite 120, 2030 Bristol Circle",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2025-06-03",
+    "time": "14:00",
+    "venue": "Appleby Place",
+    "address": "500 Appleby Line",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2025-05-30",
+    "time": "14:30",
+    "venue": "Heritage Place",
+    "address": "4151 Kilmer Dr",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2025-05-22",
+    "time": "14:30",
+    "venue": "Birkdale Place",
+    "address": "611 Farmstead Dr",
+    "city": "Milton",
+    "province": "ON"
+  },
+  {
+    "date": "2025-05-16",
+    "time": "14:15",
+    "venue": "Hampton Terrace",
+    "address": "75 Plains Road West",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2025-05-08",
+    "time": "14:45",
+    "venue": "Christopher Terrace",
+    "address": "3131 New St",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2025-04-30",
+    "time": "13:30",
+    "venue": "Park Lane Terrace",
+    "address": "295 Grand River St N",
+    "city": "Paris",
+    "province": "ON"
+  },
+  {
+    "date": "2025-04-17",
+    "time": "14:15",
+    "venue": "The Beechwood",
+    "address": "1500 Rathburn Rd E",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2025-04-16",
+    "time": "14:30",
+    "venue": "Trafalgar Lodge",
+    "address": "299 Randall St",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2025-04-10",
+    "time": "14:30",
+    "venue": "Birkdale Place",
+    "address": "611 Farmstead Dr",
+    "city": "Milton",
+    "province": "ON"
+  },
+  {
+    "date": "2025-04-01",
+    "time": "14:30",
+    "venue": "Park View",
+    "address": "254 Dalhousie St",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2025-03-19",
+    "time": "14:00",
+    "venue": "SLEC",
+    "address": "Suite 120, 2030 Bristol Circle",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2025-03-17",
+    "time": "15:00",
+    "venue": "Churchill Place",
+    "address": "345 Church St",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2025-03-14",
+    "time": "14:30",
+    "venue": "Heritage Place",
+    "address": "4151 Kilmer Dr",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2025-03-12",
+    "time": "15:00",
+    "venue": "Retirement Residence",
+    "address": "175 Rutledge Rd",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2025-03-05",
+    "time": "14:15",
+    "venue": "Hampton Terrace",
+    "address": "75 Plains Road West",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2025-02-28",
+    "time": "14:30",
+    "venue": "Birkdale Place",
+    "address": "611 Farmstead Dr",
+    "city": "Milton",
+    "province": "ON"
+  },
+  {
+    "date": "2025-02-18",
+    "time": "19:15",
+    "venue": "The Village Of Tansley Woods",
+    "address": "4100 Upper Middle Rd",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2025-02-12",
+    "time": "15:00",
+    "venue": "Seasons Stoney Creek",
+    "address": "8 Shoreview Pl",
+    "city": "Stoney Creek",
+    "province": "ON"
+  },
+  {
+    "date": "2025-02-06",
+    "time": "15:30",
+    "venue": "The Beechwood",
+    "address": "1500 Rathburn Rd E",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2025-02-05",
+    "time": "14:30",
+    "venue": "Trafalgar Lodge",
+    "address": "299 Randall St",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2025-01-16",
+    "time": "14:45",
+    "venue": "Christopher Terrace",
+    "address": "3131 New St",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2025-01-16",
+    "time": "14:15",
+    "venue": "The Beechwood",
+    "address": "1500 Rathburn Rd E",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2024-12-04",
+    "time": "14:30",
+    "venue": "Churchill Place",
+    "address": "345 Church St",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2024-11-28",
+    "time": "15:00",
+    "venue": "The Kensington",
+    "address": "25 Lakeshore Rd W",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2024-11-22",
+    "time": "14:00",
+    "venue": "Appleby Place",
+    "address": "500 Appleby Line",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2024-11-16",
+    "time": "17:00",
+    "venue": "Paris Legion",
+    "address": "70 William St",
+    "city": "Paris",
+    "province": "ON"
+  },
+  {
+    "date": "2024-11-13",
+    "time": "15:00",
+    "venue": "Retirement Residence",
+    "address": "175 Rutledge Rd",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2024-11-13",
+    "time": "14:30",
+    "venue": "Lundy Manor",
+    "address": "7860 Lundy's Ln",
+    "city": "Niagara Falls",
+    "province": "ON"
+  },
+  {
+    "date": "2024-11-07",
+    "time": "15:00",
+    "venue": "Stamford Estates",
+    "address": "3900 Portage Rd",
+    "city": "Niagara Falls",
+    "province": "ON"
+  },
+  {
+    "date": "2024-11-05",
+    "time": "19:15",
+    "venue": "The Village Of Tansley Woods",
+    "address": "4100 Upper Middle Rd",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2024-10-31",
+    "time": "14:30",
+    "venue": "Heritage Place",
+    "address": "4151 Kilmer Dr",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2024-10-30",
+    "time": "15:00",
+    "venue": "The Kensington",
+    "address": "25 Lakeshore Rd W",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2024-10-30",
+    "time": "15:00",
+    "venue": "Retirement Residence",
+    "address": "175 Rutledge Rd",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2024-10-26",
+    "time": "13:45",
+    "venue": "The Court At Rushdale",
+    "address": "1360 Upper Sherman Ave",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2024-10-25",
+    "time": "14:00",
+    "venue": "Willoughby Manor",
+    "address": "3584 Bridgewater St",
+    "city": "Niagara Falls",
+    "province": "ON"
+  },
+  {
+    "date": "2024-10-22",
+    "time": "14:30",
+    "venue": "Churchill Place",
+    "address": "345 Church St, Oakville",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2024-10-18",
+    "time": "14:00",
+    "venue": "Queens Avenue",
+    "address": "1056 Queens Ave",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2024-10-09",
+    "time": "14:15",
+    "venue": "Hampton Terrace",
+    "address": "75 Plains Road West",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2024-10-04",
+    "time": "14:15",
+    "venue": "The Beechwood",
+    "address": "1500 Rathburn Rd E",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2024-09-26",
+    "time": "14:00",
+    "venue": "Queen's Square",
+    "address": "10 Melville St N",
+    "city": "Cambridge",
+    "province": "ON"
+  },
+  {
+    "date": "2024-09-24",
+    "time": "14:00",
+    "venue": "Seasons Stoney Creek",
+    "address": "8 Shoreview Pl",
+    "city": "Stoney Creek",
+    "province": "ON"
+  },
+  {
+    "date": "2024-09-19",
+    "time": "14:15",
+    "venue": "The Beechwood",
+    "address": "1500 Rathburn Rd E",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2024-09-13",
+    "time": "15:00",
+    "venue": "Birkdale Place",
+    "address": "611 Farmstead Dr",
+    "city": "Milton",
+    "province": "ON"
+  },
+  {
+    "date": "2024-09-11",
+    "time": "14:00",
+    "venue": "Westmount Terrace",
+    "address": "723 Rymal Rd W",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2024-08-27",
+    "time": "14:00",
+    "venue": "Appleby Place",
+    "address": "500 Appleby Line",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2024-08-21",
+    "time": "14:30",
+    "venue": "Trafalgar Lodge",
+    "address": "299 Randall St",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2024-08-20",
+    "time": "14:30",
+    "venue": "Birkdale Place",
+    "address": "611 Farmstead Dr",
+    "city": "Milton",
+    "province": "ON"
+  },
+  {
+    "date": "2024-08-17",
+    "time": "14:30",
+    "venue": "Lundy Manor",
+    "address": "7860 Lundy's Ln",
+    "city": "Niagara Falls",
+    "province": "ON"
+  },
+  {
+    "date": "2024-08-14",
+    "time": "14:15",
+    "venue": "Hampton Terrace",
+    "address": "75 Plains Road West",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2024-08-03",
+    "time": "17:00",
+    "venue": "St. George Legion",
+    "address": "9 Main St N",
+    "city": "St. George",
+    "province": "ON"
+  },
+  {
+    "date": "2024-08-01",
+    "time": "15:00",
+    "venue": "Stamford Estates",
+    "address": "3900 Portage Rd",
+    "city": "Niagara Falls",
+    "province": "ON"
+  },
+  {
+    "date": "2024-07-30",
+    "time": "14:30",
+    "venue": "254 Dalhousie St Park View",
+    "address": "Brantford, ON N3S 3V2",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2024-07-25",
+    "time": "14:00",
+    "venue": "The Village Of Riverside Glen",
+    "address": "60 Woodlawn Rd E",
+    "city": "Guelph",
+    "province": "ON"
+  },
+  {
+    "date": "2024-07-19",
+    "time": "14:15",
+    "venue": "The Beechwood",
+    "address": "1500 Rathburn Rd E",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2024-07-18",
+    "time": "14:00",
+    "venue": "10 Melville St N Queen's Square",
+    "address": "Cambridge, ON N1S 1H5",
+    "city": "Cambridge",
+    "province": "ON"
+  },
+  {
+    "date": "2024-07-16",
+    "time": "15:00",
+    "venue": "Retirement Residence",
+    "address": "175 Rutledge Rd",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2024-07-11",
+    "time": "14:15",
+    "venue": "The Beechwood",
+    "address": "1500 Rathburn Rd E",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2024-07-08",
+    "time": "14:00",
+    "venue": "SLEC",
+    "address": "2030 Bristol Cir #120",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2024-07-05",
+    "time": "14:00",
+    "venue": "Queens Avenue",
+    "address": "1056 Queens Ave",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2024-07-01",
+    "time": "14:00",
+    "venue": "Burlington Gardens",
+    "address": "300 Plains Rd W",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2024-06-28",
+    "time": "14:15",
+    "venue": "Hampton Terrace",
+    "address": "75 Plains Road West",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2024-06-27",
+    "time": "14:30",
+    "venue": "Churchill Place",
+    "address": "345 Church St, Oakville",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2024-06-20",
+    "time": "14:45",
+    "venue": "Christopher Terrace",
+    "address": "3131 New St",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2024-05-23",
+    "time": "14:00",
+    "venue": "10 Melville St N Queen's Square",
+    "address": "Cambridge, ON N1S 1H5",
+    "city": "Cambridge",
+    "province": "ON"
+  },
+  {
+    "date": "2024-05-17",
+    "time": "15:00",
+    "venue": "Birkdale Place",
+    "address": "611 Farmstead Dr",
+    "city": "Milton",
+    "province": "ON"
+  },
+  {
+    "date": "2024-05-10",
+    "time": "14:00",
+    "venue": "Appleby Place",
+    "address": "500 Appleby Line",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2024-05-04",
+    "time": "13:45",
+    "venue": "The Court At Rushdale",
+    "address": "1360 Upper Sherman Ave",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2024-04-30",
+    "time": "14:30",
+    "venue": "Delmanor Glen Abbey",
+    "address": "1459 Nottinghill Gate",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2024-04-27",
+    "time": "14:00",
+    "venue": "The Village Of Wentworth Heights",
+    "address": "1620 Upper Wentworth St",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2024-04-25",
+    "time": "15:00",
+    "venue": "Stamford Estates",
+    "address": "3900 Portage Rd",
+    "city": "Niagara Falls",
+    "province": "ON"
+  },
+  {
+    "date": "2024-04-17",
+    "time": "15:00",
+    "venue": "The Village Of Tansley Woods",
+    "address": "4100 Upper Middle Rd",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2024-04-04",
+    "time": "15:00",
+    "venue": "The Kensington",
+    "address": "25 Lakeshore Rd W",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2024-04-02",
+    "time": "15:00",
+    "venue": "Retirement Residence",
+    "address": "175 Rutledge Rd",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2024-03-28",
+    "time": "14:00",
+    "venue": "10 Melville St N Queen's Square",
+    "address": "Cambridge, ON N1S 1H5",
+    "city": "Cambridge",
+    "province": "ON"
+  },
+  {
+    "date": "2024-03-22",
+    "time": "15:00",
+    "venue": "Birkdale Place",
+    "address": "611 Farmstead Dr",
+    "city": "Milton",
+    "province": "ON"
+  },
+  {
+    "date": "2024-03-21",
+    "time": "18:15",
+    "venue": "Hampton Terrace",
+    "address": "75 Plains Road West",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2024-03-21",
+    "time": "14:15",
+    "venue": "Lakeview Retirement Centre",
+    "address": "339 Hwy 8",
+    "city": "Stoney Creek",
+    "province": "ON"
+  },
+  {
+    "date": "2024-03-20",
+    "time": "14:30",
+    "venue": "Trafalgar Lodge",
+    "address": "299 Randall St",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2024-03-15",
+    "time": "14:30",
+    "venue": "254 Dalhousie St Park View",
+    "address": "Brantford, ON N3S 3V2",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2024-03-15",
+    "time": "14:30",
+    "venue": "Heritage Place",
+    "address": "4151 Kilmer Dr",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2024-03-13",
+    "time": "14:30",
+    "venue": "Lundy Manor",
+    "address": "7860 Lundy's Ln",
+    "city": "Niagara Falls",
+    "province": "ON"
+  },
+  {
+    "date": "2024-03-11",
+    "time": "19:00",
+    "venue": "Shalom Village",
+    "address": "70 Macklin St N",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2024-02-29",
+    "time": "14:30",
+    "venue": "Churchill Place",
+    "address": "345 Church St, Oakville",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2024-02-08",
+    "time": "18:30",
+    "venue": "Al Dente",
+    "address": "250 King George Rd",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2024-01-30",
+    "time": "13:30",
+    "venue": "Park Lane Terrace",
+    "address": "295 Grand River St N",
+    "city": "Paris",
+    "province": "ON"
+  },
+  {
+    "date": "2024-01-26",
+    "time": "15:00",
+    "venue": "Forum Italia",
+    "address": "195 Forum Dr",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2024-01-18",
+    "time": "14:45",
+    "venue": "Christopher Terrace",
+    "address": "3131 New St",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2024-01-14",
+    "time": "13:45",
+    "venue": "The Court At Rushdale",
+    "address": "1360 Upper Sherman Ave",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2024-01-11",
+    "time": "14:00",
+    "venue": "Westmount Terrace",
+    "address": "723 Rymal Rd W",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2024-01-09",
+    "time": "19:15",
+    "venue": "The Village Of Tansley Woods",
+    "address": "4100 Upper Middle Rd",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2023-12-29",
+    "time": "14:30",
+    "venue": "Trafalgar Lodge",
+    "address": "299 Randall St",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2023-12-01",
+    "time": "14:15",
+    "venue": "Hampton Terrace",
+    "address": "75 Plains Road West",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2023-11-30",
+    "time": "15:15",
+    "venue": "Chartwell Robert Speck",
+    "address": "100 Robert Speck Pkwy",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2023-11-28",
+    "time": "13:30",
+    "venue": "Park Lane Terrace",
+    "address": "295 Grand River St N",
+    "city": "Paris",
+    "province": "ON"
+  },
+  {
+    "date": "2023-11-22",
+    "time": "18:00",
+    "venue": "St. George Legion",
+    "address": "9 Main St N",
+    "city": "St. George",
+    "province": "ON"
+  },
+  {
+    "date": "2023-11-17",
+    "time": "14:00",
+    "venue": "SLEC",
+    "address": "2030 Bristol Cir #120",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2023-11-15",
+    "time": "14:30",
+    "venue": "Trafalgar Lodge",
+    "address": "299 Randall St",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2023-11-14",
+    "time": "15:00",
+    "venue": "Forum Italia",
+    "address": "195 Forum Dr",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2023-11-09",
+    "time": "15:00",
+    "venue": "The Kensington",
+    "address": "25 Lakeshore Rd W",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2023-11-08",
+    "time": "14:00",
+    "venue": "Burlington Gardens",
+    "address": "300 Plains Rd W",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2023-11-04",
+    "time": "18:00",
+    "venue": "St. George Legion",
+    "address": "9 Main St N",
+    "city": "St. George",
+    "province": "ON"
+  },
+  {
+    "date": "2023-11-04",
+    "time": "14:00",
+    "venue": "Heritage Place",
+    "address": "4151 Kilmer Dr",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2023-10-26",
+    "time": "14:30",
+    "venue": "Churchill Place",
+    "address": "345 Church St, Oakville",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2023-10-26",
+    "time": "13:45",
+    "venue": "The Court At Rushdale",
+    "address": "1360 Upper Sherman Ave",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2023-10-05",
+    "time": "14:00",
+    "venue": "Appleby Place",
+    "address": "500 Appleby Line",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2023-09-28",
+    "time": "13:45",
+    "venue": "The Court At Rushdale",
+    "address": "1360 Upper Sherman Ave",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2023-09-23",
+    "time": "14:30",
+    "venue": "Trafalgar Lodge",
+    "address": "299 Randall St",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2023-09-19",
+    "time": "13:30",
+    "venue": "Park Lane Terrace",
+    "address": "295 Grand River St N",
+    "city": "Paris",
+    "province": "ON"
+  },
+  {
+    "date": "2023-09-14",
+    "time": "14:15",
+    "venue": "The Beechwood",
+    "address": "1500 Rathburn Rd E",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2023-09-07",
+    "time": "14:00",
+    "venue": "10 Melville St N Queen's Square",
+    "address": "Cambridge, ON N1S 1H5",
+    "city": "Cambridge",
+    "province": "ON"
+  },
+  {
+    "date": "2023-09-06",
+    "time": "14:15",
+    "venue": "Hampton Terrace",
+    "address": "75 Plains Road West",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2023-08-25",
+    "time": "14:30",
+    "venue": "Park View",
+    "address": "254 Dalhousie St",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2023-08-15",
+    "time": "15:00",
+    "venue": "The Kensington",
+    "address": "25 Lakeshore Rd W",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2023-08-10",
+    "time": "14:30",
+    "venue": "Churchill Place",
+    "address": "345 Church St, Oakville",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2023-07-22",
+    "time": "13:00",
+    "venue": "Paris Legion",
+    "address": "70 William St",
+    "city": "Paris",
+    "province": "ON"
+  },
+  {
+    "date": "2023-07-21",
+    "time": "13:30",
+    "venue": "Park Lane Terrace",
+    "address": "295 Grand River St N",
+    "city": "Paris",
+    "province": "ON"
+  },
+  {
+    "date": "2023-07-14",
+    "time": "14:00",
+    "venue": "Appleby Place",
+    "address": "500 Appleby Line",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2023-07-11",
+    "time": "14:15",
+    "venue": "The Beechwood",
+    "address": "1500 Rathburn Rd E",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2023-07-11",
+    "time": "14:00",
+    "venue": "The Beechwood",
+    "address": "1500 Rathburn Rd E",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2023-07-01",
+    "time": "15:00",
+    "venue": "Birkdale Place",
+    "address": "611 Farmstead Dr",
+    "city": "Milton",
+    "province": "ON"
+  },
+  {
+    "date": "2023-06-29",
+    "time": "14:15",
+    "venue": "Hampton Terrace",
+    "address": "75 Plains Road West",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2023-06-27",
+    "time": "15:00",
+    "venue": "Forum Italia",
+    "address": "195 Forum Dr",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2023-06-22",
+    "time": "14:30",
+    "venue": "Churchill Place",
+    "address": "345 Church St, Oakville",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2023-06-22",
+    "time": "14:15",
+    "venue": "The Beechwood",
+    "address": "1500 Rathburn Rd E",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2023-06-22",
+    "time": "13:00",
+    "venue": "Trafalgar Lodge",
+    "address": "299 Randall St",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2023-06-19",
+    "time": "14:15",
+    "venue": "The Beechwood",
+    "address": "1500 Rathburn Rd E",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2023-06-11",
+    "time": "13:45",
+    "venue": "The Court At Rushdale",
+    "address": "1360 Upper Sherman Ave",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2023-06-04",
+    "time": "13:45",
+    "venue": "The Court At Rushdale",
+    "address": "1360 Upper Sherman Ave",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2023-05-26",
+    "time": "14:30",
+    "venue": "Park View",
+    "address": "254 Dalhousie St",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2023-05-19",
+    "time": "14:15",
+    "venue": "Hampton Terrace",
+    "address": "75 Plains Road West",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2023-05-11",
+    "time": "15:00",
+    "venue": "Tranquility Place",
+    "address": "436 Powerline Rd",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2023-05-09",
+    "time": "15:00",
+    "venue": "The Kensington",
+    "address": "25 Lakeshore Rd W",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2023-05-05",
+    "time": "19:15",
+    "venue": "The Village Of Tansley Woods",
+    "address": "4100 Upper Middle Rd",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2023-05-04",
+    "time": "14:15",
+    "venue": "The Beechwood",
+    "address": "1500 Rathburn Rd E",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2023-05-02",
+    "time": "14:00",
+    "venue": "Queensview",
+    "address": "70 King Edward St",
+    "city": "Brant",
+    "province": "ON"
+  },
+  {
+    "date": "2023-04-26",
+    "time": "14:30",
+    "venue": "Lundy Manor",
+    "address": "7860 Lundy's Ln",
+    "city": "Niagara Falls",
+    "province": "ON"
+  },
+  {
+    "date": "2023-04-25",
+    "time": "14:30",
+    "venue": "Birkdale Place",
+    "address": "611 Farmstead Dr",
+    "city": "Milton",
+    "province": "ON"
+  },
+  {
+    "date": "2023-04-21",
+    "time": "13:30",
+    "venue": "Park Lane Terrace",
+    "address": "295 Grand River St N",
+    "city": "Paris",
+    "province": "ON"
+  },
+  {
+    "date": "2023-04-13",
+    "time": "14:30",
+    "venue": "Churchill Place",
+    "address": "345 Church St, Oakville",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2023-04-05",
+    "time": "14:15",
+    "venue": "Hampton Terrace",
+    "address": "75 Plains Road West",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2023-04-04",
+    "time": "14:00",
+    "venue": "Brierwood Gardens",
+    "address": "425 Park Rd N",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2023-03-30",
+    "time": "13:30",
+    "venue": "Riverview Terrace",
+    "address": "104 Brant Ave",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2023-03-26",
+    "time": "13:45",
+    "venue": "The Court At Rushdale",
+    "address": "1360 Upper Sherman Ave",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2023-03-15",
+    "time": "14:00",
+    "venue": "Westmount Terrace",
+    "address": "723 Rymal Rd W",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2023-03-13",
+    "time": "14:30",
+    "venue": "Lundy Manor",
+    "address": "7860 Lundy's Ln",
+    "city": "Niagara Falls",
+    "province": "ON"
+  },
+  {
+    "date": "2023-02-14",
+    "time": "14:30",
+    "venue": "Delmanor Glen Abbey",
+    "address": "1459 Nottinghill Gate",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2023-01-31",
+    "time": "15:00",
+    "venue": "Forum Italia",
+    "address": "195 Forum Dr",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2023-01-27",
+    "time": "14:30",
+    "venue": "Park View",
+    "address": "254 Dalhousie St",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2023-01-22",
+    "time": "15:30",
+    "venue": "The Williamsburg",
+    "address": "1893 Appleby Line",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2023-01-20",
+    "time": "14:30",
+    "venue": "Churchill Place",
+    "address": "345 Church St",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2022-12-07",
+    "time": "19:15",
+    "venue": "The Village Of Tansley Woods",
+    "address": "4100 Upper Middle Rd",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2022-11-24",
+    "time": "14:00",
+    "venue": "The Beechwood",
+    "address": "425 Park Rd N",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2022-11-19",
+    "time": "14:00",
+    "venue": "Paris Legion",
+    "address": "70 William St",
+    "city": "Paris",
+    "province": "ON"
+  },
+  {
+    "date": "2022-11-17",
+    "time": "19:00",
+    "venue": "Pearl And Pine",
+    "address": "390 Pearl St",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2022-11-11",
+    "time": "15:00",
+    "venue": "Tranquility Place",
+    "address": "436 Powerline Rd",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2022-11-08",
+    "time": "15:00",
+    "venue": "Forum Italia",
+    "address": "195 Forum Dr",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2022-10-29",
+    "time": "20:00",
+    "venue": "Paris Legion",
+    "address": "70 William St",
+    "city": "Paris",
+    "province": "ON"
+  },
+  {
+    "date": "2022-10-28",
+    "time": "14:00",
+    "venue": "The Beechwood",
+    "address": "1500 Rathburn Rd E",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2022-10-21",
+    "time": "14:00",
+    "venue": "Queen's Avenue",
+    "address": "1056 Queens Ave",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2022-10-13",
+    "time": "15:00",
+    "venue": "The Kensington",
+    "address": "25 Lakeshore Rd W",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2022-09-30",
+    "time": "14:30",
+    "venue": "Park View",
+    "address": "254 Dalhousie St",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2022-09-29",
+    "time": "14:00",
+    "venue": "Brierwood Gardens",
+    "address": "425 Park Rd N",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2022-09-23",
+    "time": "14:15",
+    "venue": "Hampton Terrace",
+    "address": "75 Plains Road West",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2022-09-17",
+    "time": "13:00",
+    "venue": "Paris Legion",
+    "address": "70 William St",
+    "city": "Paris",
+    "province": "ON"
+  },
+  {
+    "date": "2022-09-16",
+    "time": "14:00",
+    "venue": "Martha's Landing",
+    "address": "2109 Lakeshore Rd",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2022-09-06",
+    "time": "14:30",
+    "venue": "Aberdeen Gardens",
+    "address": "330 Dundurn St S",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2022-08-30",
+    "time": "14:00",
+    "venue": "Village Manor",
+    "address": "57 John St W",
+    "city": "Waterdown",
+    "province": "ON"
+  },
+  {
+    "date": "2022-08-25",
+    "time": "14:30",
+    "venue": "Stamford Estates",
+    "address": "3900 Portage Rd",
+    "city": "Niagara Falls",
+    "province": "ON"
+  },
+  {
+    "date": "2022-08-19",
+    "time": "14:30",
+    "venue": "The Williamsburg",
+    "address": "1893 Appleby Line",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2022-08-16",
+    "time": "19:15",
+    "venue": "The Village Of Tansley Woods",
+    "address": "4100 Upper Middle Rd",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2022-08-12",
+    "time": "14:00",
+    "venue": "Appleby Place",
+    "address": "500 Appleby Line",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2022-08-06",
+    "time": "13:00",
+    "venue": "Paris Legion",
+    "address": "70 William St",
+    "city": "Paris",
+    "province": "ON"
+  },
+  {
+    "date": "2022-07-22",
+    "time": "14:30",
+    "venue": "Heritage Place",
+    "address": "4151 Kilmer Dr",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2022-07-21",
+    "time": "19:00",
+    "venue": "The Paris Beer Company",
+    "address": "31 Mechanic St",
+    "city": "Paris",
+    "province": "ON"
+  },
+  {
+    "date": "2022-07-19",
+    "time": "15:00",
+    "venue": "Forum Italia",
+    "address": "155 Forum Dr",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2022-07-14",
+    "time": "15:30",
+    "venue": "The Beechwood",
+    "address": "1500 Rathburn Rd E",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2022-07-12",
+    "time": "14:30",
+    "venue": "Lundy Manor",
+    "address": "7860 Lundy's Ln",
+    "city": "Niagara Falls",
+    "province": "ON"
+  },
+  {
+    "date": "2022-07-01",
+    "time": "14:30",
+    "venue": "Burlington Gardens",
+    "address": "300 Plains Rd W",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2022-06-29",
+    "time": "14:15",
+    "venue": "Hampton Terrace",
+    "address": "75 Plains Road West",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2022-06-23",
+    "time": "14:30",
+    "venue": "Brierwood Gardens",
+    "address": "425 Park Rd N",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2022-06-18",
+    "time": "13:30",
+    "venue": "Village Manor",
+    "address": "57 John St W",
+    "city": "Waterdown",
+    "province": "ON"
+  },
+  {
+    "date": "2022-05-31",
+    "time": "14:30",
+    "venue": "The Williamsburg",
+    "address": "1893 Appleby Line",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2022-05-27",
+    "time": "14:30",
+    "venue": "Park View",
+    "address": "254 Dalhousie St",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2022-05-20",
+    "time": "13:00",
+    "venue": "Park Lane Terrace",
+    "address": "295 Grand River St N",
+    "city": "Paris",
+    "province": "ON"
+  },
+  {
+    "date": "2022-04-21",
+    "time": "18:30",
+    "venue": "Al Dente",
+    "address": "250 King George Rd",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2022-04-19",
+    "time": "14:00",
+    "venue": "Brierwood Gardens",
+    "address": "425 Park Rd N",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2021-09-22",
+    "time": "15:00",
+    "venue": "Forum Italia",
+    "address": "175 Forum Dr",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2021-09-18",
+    "time": "14:30",
+    "venue": "Appleby Place",
+    "address": "500 Appleby Line",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2021-09-16",
+    "time": "15:00",
+    "venue": "Chartwell Robert Speck",
+    "address": "100 Robert Speck Pkwy",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2021-09-15",
+    "time": "14:00",
+    "venue": "Village Manor",
+    "address": "57 John St W",
+    "city": "Waterdown",
+    "province": "ON"
+  },
+  {
+    "date": "2021-09-09",
+    "time": "14:30",
+    "venue": "The Kensington",
+    "address": "25 Lakeshore Rd W",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2021-09-08",
+    "time": "19:00",
+    "venue": "The Queensview",
+    "address": "70 King Edward St",
+    "city": "Paris",
+    "province": "ON"
+  },
+  {
+    "date": "2021-09-01",
+    "time": "14:00",
+    "venue": "Parkland On The Gen",
+    "address": "1665 The Collegeway",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2021-08-26",
+    "time": "14:00",
+    "venue": "Maplecrest Village",
+    "address": "85 Main St E",
+    "city": "Grimsby",
+    "province": "ON"
+  },
+  {
+    "date": "2021-08-24",
+    "time": "15:15",
+    "venue": "The Williamsburg",
+    "address": "1893 Appleby Line",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2021-08-19",
+    "time": "14:00",
+    "venue": "The Beechwood",
+    "address": "1500 Rathburn Rd E",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2021-08-17",
+    "time": "14:00",
+    "venue": "The Regency Of Lakefield",
+    "address": "91 Concession St",
+    "city": "Lakefield",
+    "province": "ON"
+  },
+  {
+    "date": "2021-08-09",
+    "time": "14:00",
+    "venue": "Westmount Terrace",
+    "address": "723 Rymal Rd W",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2021-08-02",
+    "time": "14:00",
+    "venue": "The Court At Rushdale",
+    "address": "1360 Upper Sherman Ave",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2021-03-27",
+    "time": "14:00",
+    "venue": "Brantford Music Centre",
+    "address": "422 Colborne St",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2020-11-26",
+    "time": "19:00",
+    "venue": "Heritage Place",
+    "address": "4151 Kilmer Dr",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2020-11-18",
+    "time": "19:00",
+    "venue": "85 Main St E, Grimsby, ON Maplecrest Village",
+    "address": "L3M 1N6",
+    "city": "Grimsby",
+    "province": "ON"
+  },
+  {
+    "date": "2020-11-07",
+    "time": "14:00",
+    "venue": "Aberdeen Gardens",
+    "address": "330 Dundurn St S",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2020-11-04",
+    "time": "14:15",
+    "venue": "Hampton Terrace",
+    "address": "75 Plains Road West",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2020-10-14",
+    "time": "13:30",
+    "venue": "Village Manor",
+    "address": "57 John St W",
+    "city": "Waterdown",
+    "province": "ON"
+  },
+  {
+    "date": "2020-10-03",
+    "time": "14:00",
+    "venue": "The Court At Rushdale",
+    "address": "1360 Upper Sherman Ave",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2020-09-24",
+    "time": "18:15",
+    "venue": "Hampton Terrace",
+    "address": "75 Plains Road West",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2020-09-23",
+    "time": "14:00",
+    "venue": "7860 Lundy's Ln, Niagara Lundy Manor",
+    "address": "Falls, ON",
+    "city": "Niagara Falls",
+    "province": "ON"
+  },
+  {
+    "date": "2020-09-19",
+    "time": "19:15",
+    "venue": "Appleby Place",
+    "address": "500 Appleby Line",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2020-09-03",
+    "time": "14:30",
+    "venue": "25 Lakeshore Rd W The Kensington",
+    "address": "Oakville, ON",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2020-08-14",
+    "time": "14:30",
+    "venue": "Aberdeen Gardens",
+    "address": "330 Dundurn St S",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2020-07-25",
+    "time": "14:00",
+    "venue": "Maplecrest Village",
+    "address": "85 Main St E, Grimsby, ON",
+    "city": "Grimsby",
+    "province": "ON"
+  },
+  {
+    "date": "2020-07-11",
+    "time": "19:15",
+    "venue": "Appleby Place",
+    "address": "500 Appleby Line",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2020-07-04",
+    "time": "14:00",
+    "venue": "Heritage Place",
+    "address": "4151 Kilmer Dr",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2020-07-01",
+    "time": "14:00",
+    "venue": "Burlington Gardens",
+    "address": "300 Plains Rd W",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2020-06-30",
+    "time": "14:15",
+    "venue": "Hampton Terrace",
+    "address": "75 Plains Road West",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2020-05-16",
+    "time": "14:00",
+    "venue": "Maplecrest Village",
+    "address": "85 Main St E",
+    "city": "Grimsby",
+    "province": "ON"
+  },
+  {
+    "date": "2020-05-10",
+    "time": "14:00",
+    "venue": "The Court At Rushdale",
+    "address": "1360 Upper Sherman Ave",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2020-05-02",
+    "time": "19:15",
+    "venue": "Appleby Place",
+    "address": "500 Appleby Line",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2020-04-28",
+    "time": "14:00",
+    "venue": "Queen's Avenue",
+    "address": "1056 Queens Avenue",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2020-04-23",
+    "time": "19:30",
+    "venue": "Pearl And Pine",
+    "address": "390 Pearl St",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2020-04-04",
+    "time": "14:00",
+    "venue": "Stamford Estates",
+    "address": "3900 Portage Rd",
+    "city": "Niagara Falls",
+    "province": "ON"
+  },
+  {
+    "date": "2020-03-31",
+    "time": "14:00",
+    "venue": "Westmount Terrace",
+    "address": "723 Rymal Rd W",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2020-03-27",
+    "time": "14:00",
+    "venue": "SLEC",
+    "address": "2030 Bristol Cir #120",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2020-03-21",
+    "time": "14:30",
+    "venue": "The Kensington",
+    "address": "25 Lakeshore Rd W",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2020-03-20",
+    "time": "19:30",
+    "venue": "Al Dente",
+    "address": "250 King George Rd",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2020-03-17",
+    "time": "14:00",
+    "venue": "Burlington Gardens",
+    "address": "300 Plains Rd W",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2020-03-07",
+    "time": "14:00",
+    "venue": "Aberdeen Gardens",
+    "address": "330 Dundurn St S",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2020-03-04",
+    "time": "14:15",
+    "venue": "Hampton Terrace",
+    "address": "75 Plains Road West",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2020-03-03",
+    "time": "14:00",
+    "venue": "Heritage Place",
+    "address": "4151 Kilmer Dr",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2020-02-24",
+    "time": "13:30",
+    "venue": "57 John St W, Waterdown Village Manor",
+    "address": "ON",
+    "city": "Waterdown",
+    "province": "ON"
+  },
+  {
+    "date": "2020-02-14",
+    "time": "14:00",
+    "venue": "2030 Bristol Cir #120 SLEC",
+    "address": "Oakville, ON",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2020-02-08",
+    "time": "14:30",
+    "venue": "The Kensington",
+    "address": "25 Lakeshore Rd W",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2020-01-21",
+    "time": "19:00",
+    "venue": "Shalom Village",
+    "address": "70 Macklin St N",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2020-01-04",
+    "time": "13:30",
+    "venue": "Park Lane Terrace",
+    "address": "295 Grand River St N",
+    "city": "Paris",
+    "province": "ON"
+  },
+  {
+    "date": "2019-12-11",
+    "time": "14:00",
+    "venue": "West Oak Village",
+    "address": "2370 Third Line",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2019-12-07",
+    "time": "14:00",
+    "venue": "Brantford Music Centre",
+    "address": "422 Colborne St",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2019-12-06",
+    "time": "15:00",
+    "venue": "Parkland On The Glen",
+    "address": "1665 The Collegeway",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2019-11-02",
+    "time": "14:00",
+    "venue": "Aberdeen Gardens",
+    "address": "330 Dundurn St S",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2019-11-01",
+    "time": "14:15",
+    "venue": "Hampton Terrace",
+    "address": "75 Plains Road West",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2019-10-05",
+    "time": "14:00",
+    "venue": "The Court At Rushdale",
+    "address": "1360 Upper Sherman Ave",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2019-10-02",
+    "time": "14:00",
+    "venue": "Heritage Glen",
+    "address": "1641 Heritage Way",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2019-10-01",
+    "time": "19:00",
+    "venue": "Heritage Place",
+    "address": "4151 Kilmer Dr",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2019-09-30",
+    "time": "19:30",
+    "venue": "Delmanor Glen Abbey",
+    "address": "1459 Nottinghill Gate",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2019-09-25",
+    "time": "13:30",
+    "venue": "Village Manor",
+    "address": "57 John St W",
+    "city": "Waterdown",
+    "province": "ON"
+  },
+  {
+    "date": "2019-09-24",
+    "time": "14:30",
+    "venue": "Seasons Brantford",
+    "address": "55 Diana Ave",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2019-09-20",
+    "time": "14:30",
+    "venue": "Hearthstone By The Lake",
+    "address": "100 Burloak Dr",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2019-08-23",
+    "time": "15:00",
+    "venue": "Queens Avenue",
+    "address": "1056 Queens Ave",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2019-08-11",
+    "time": "14:00",
+    "venue": "Seasons Brantford",
+    "address": "55 Diana Ave",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2019-08-10",
+    "time": "16:00",
+    "venue": "House Concert",
+    "address": "Orkney Road",
+    "city": "Flamborough",
+    "province": "ON"
+  },
+  {
+    "date": "2019-08-10",
+    "time": "14:00",
+    "venue": "Aberdeen Gardens",
+    "address": "330 Dundurn St S",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2019-08-07",
+    "time": "14:30",
+    "venue": "Tranquility Place",
+    "address": "436 Powerline Rd",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2019-08-06",
+    "time": "14:00",
+    "venue": "The Kensington",
+    "address": "25 Lakeshore Rd W",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2019-08-01",
+    "time": "19:00",
+    "venue": "Waterford Summer Concert Series",
+    "address": "76 Main St S",
+    "city": "Waterford",
+    "province": "ON"
+  },
+  {
+    "date": "2019-07-24",
+    "time": "14:00",
+    "venue": "Westmount Terrace",
+    "address": "723 Rymal Rd W",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2019-07-07",
+    "time": "14:00",
+    "venue": "The Court At Rushdale",
+    "address": "1360 Upper Sherman Ave",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2019-07-02",
+    "time": "15:00",
+    "venue": "Forum Italia",
+    "address": "195 Forum Dr",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2019-07-01",
+    "time": "14:00",
+    "venue": "300 Plains Rd W Burlington Gardens",
+    "address": "Burlington",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2019-06-28",
+    "time": "14:15",
+    "venue": "Hampton Terrace",
+    "address": "75 Plains Road West",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2019-06-23",
+    "time": "19:15",
+    "venue": "Appleby Place",
+    "address": "500 Appleby Line",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2019-06-19",
+    "time": "15:45",
+    "venue": "Village Of Tansley Woods",
+    "address": "4100 Upper Middle Rd",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2019-05-29",
+    "time": "14:30",
+    "venue": "The Williamsburg",
+    "address": "1893 Appleby Line",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2019-05-27",
+    "time": "19:30",
+    "venue": "Delmanor Glen Abbey",
+    "address": "1459 Nottinghill Gate",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2019-05-23",
+    "time": "14:00",
+    "venue": "The Kensington",
+    "address": "25 Lakeshore Rd W",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2019-05-09",
+    "time": "19:00",
+    "venue": "Al Dente Pasta Pizza Grill",
+    "address": "250 King George Rd",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2019-04-29",
+    "time": "14:30",
+    "venue": "The Beechwood",
+    "address": "1500 Rathburn Rd E",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2019-04-26",
+    "time": "15:00",
+    "venue": "Riverview Terrace",
+    "address": "104 Brant Ave",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2019-04-24",
+    "time": "19:00",
+    "venue": "West Oak Village",
+    "address": "2370 Third Line",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2019-04-10",
+    "time": "14:00",
+    "venue": "Heritage Glen",
+    "address": "1641 Heritage Way",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2019-04-06",
+    "time": "14:00",
+    "venue": "Stamford Estates",
+    "address": "3900 Portage Rd",
+    "city": "Niagara Falls",
+    "province": "ON"
+  },
+  {
+    "date": "2019-04-03",
+    "time": "14:30",
+    "venue": "Tranquility Place",
+    "address": "436 Powerline Rd",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2019-03-22",
+    "time": "14:15",
+    "venue": "Hampton Terrace",
+    "address": "75 Plains Road West",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2019-03-06",
+    "time": "15:45",
+    "venue": "Village Of Tansley Woods",
+    "address": "4100 Upper Middle Rd",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2019-03-02",
+    "time": "14:00",
+    "venue": "Aberdeen Gardens",
+    "address": "330 Dundurn St S",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2019-02-27",
+    "time": "14:30",
+    "venue": "Tranquility Place",
+    "address": "436 Powerline Rd",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2019-02-15",
+    "time": "15:00",
+    "venue": "Queens Avenue",
+    "address": "1056 Queens Ave",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2019-02-07",
+    "time": "19:00",
+    "venue": "Al Dente Pasta Pizza Grill",
+    "address": "250 King George Rd",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2019-02-06",
+    "time": "14:00",
+    "venue": "The Williamsburg",
+    "address": "1893 Appleby Line",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2019-01-26",
+    "time": "19:15",
+    "venue": "Appleby Place",
+    "address": "500 Appleby Line",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2019-01-18",
+    "time": "14:15",
+    "venue": "Hampton Terrace",
+    "address": "75 Plains Road West",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2019-01-16",
+    "time": "13:30",
+    "venue": "Village Manor",
+    "address": "57 John St W",
+    "city": "Waterdown",
+    "province": "ON"
+  },
+  {
+    "date": "2019-01-15",
+    "time": "19:00",
+    "venue": "Shalom Village",
+    "address": "70 Macklin St N",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2019-01-13",
+    "time": "14:00",
+    "venue": "The Court At Rushdale",
+    "address": "1360 Upper Sherman Ave",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2018-12-28",
+    "time": "15:30",
+    "venue": "Churchill Place",
+    "address": "345 Church St",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2018-12-18",
+    "time": "14:00",
+    "venue": "West Oak Village",
+    "address": "2370 Third Line",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2018-12-13",
+    "time": "12:30",
+    "venue": "Friendship House",
+    "address": "452 Grey St",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2018-12-01",
+    "time": "11:00",
+    "venue": "Queens Avenue",
+    "address": "1056 Queens Ave",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2018-11-28",
+    "time": "14:00",
+    "venue": "Deerview Crossing",
+    "address": "460 Rymal Rd W",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2018-11-27",
+    "time": "14:00",
+    "venue": "Park View",
+    "address": "254 Dalhousie St",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2018-11-24",
+    "time": "11:00",
+    "venue": "Queens Avenue",
+    "address": "1056 Queens Ave",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2018-11-17",
+    "time": "14:00",
+    "venue": "The Court At Rushdale",
+    "address": "1360 Upper Sherman Ave",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2018-11-16",
+    "time": "15:00",
+    "venue": "Chartwell Robert Speck",
+    "address": "100 Robert Speck Pkwy Mississauga, ON L4Z 0A1",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2018-11-12",
+    "time": "18:30",
+    "venue": "Deerview Crossing",
+    "address": "460 Rymal Road West",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2018-10-25",
+    "time": "19:00",
+    "venue": "Al Dente Pasta Pizza Grill",
+    "address": "250 King George Rd",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2018-10-24",
+    "time": "14:00",
+    "venue": "Heritage Glen",
+    "address": "6515 Glen Erin Dr",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2018-10-20",
+    "time": "11:00",
+    "venue": "Queens Avenue",
+    "address": "1056 Queens Ave",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2018-10-16",
+    "time": "14:00",
+    "venue": "West Oak Village",
+    "address": "2370 Third Line",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2018-10-11",
+    "time": "14:00",
+    "venue": "The Kensington",
+    "address": "25 Lakeshore Rd W",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2018-10-01",
+    "time": "19:15",
+    "venue": "The Beechwood",
+    "address": "1500 Rathburn Rd E",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2018-10-01",
+    "time": "14:30",
+    "venue": "The Beechwood",
+    "address": "1500 Rathburn Rd E",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2018-09-27",
+    "time": "15:30",
+    "venue": "Queen's Square",
+    "address": "10 Melville St",
+    "city": "Cambridge",
+    "province": "ON"
+  },
+  {
+    "date": "2018-09-26",
+    "time": "16:00",
+    "venue": "Tansley Woods",
+    "address": "4100 Upper Middle Rd",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2018-09-20",
+    "time": "16:30",
+    "venue": "Village Manor",
+    "address": "57 John St W",
+    "city": "Waterdown",
+    "province": "ON"
+  },
+  {
+    "date": "2018-09-19",
+    "time": "15:00",
+    "venue": "Villa Forum",
+    "address": "175 Forum Dr",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2018-09-12",
+    "time": "18:30",
+    "venue": "West Oak Village",
+    "address": "2370 Third Line",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2018-09-09",
+    "time": "14:30",
+    "venue": "Churchill Place",
+    "address": "345 Church St",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2018-09-08",
+    "time": "14:00",
+    "venue": "Brantford Music Centre",
+    "address": "422 Colborne St",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2018-08-31",
+    "time": "15:00",
+    "venue": "500 Appleby Line Appleby Place",
+    "address": "Burlington, ON L7L 5Z6",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2018-08-17",
+    "time": "15:00",
+    "venue": "Queens Avenue",
+    "address": "1056 Queens Ave",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2018-08-04",
+    "time": "19:30",
+    "venue": "Seasons Brantford",
+    "address": "55 Diana Ave",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2018-08-03",
+    "time": "14:15",
+    "venue": "Hampton Terrace",
+    "address": "75 Plains Road West",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2018-07-24",
+    "time": "19:00",
+    "venue": "Shalom Village",
+    "address": "70 Macklin St N",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2018-07-19",
+    "time": "18:30",
+    "venue": "Summer Concert Series",
+    "address": "36 Laurel Street",
+    "city": "Paris",
+    "province": "ON"
+  },
+  {
+    "date": "2018-07-16",
+    "time": "18:30",
+    "venue": "Deerview Crossing",
+    "address": "460 Rymal Road West",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2018-07-12",
+    "time": "14:00",
+    "venue": "SLEC",
+    "address": "2030 Bristol Cir #120",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2018-07-11",
+    "time": "16:00",
+    "venue": "Village Of Tansley Woods",
+    "address": "4100 Upper Middle Rd",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2018-07-10",
+    "time": "14:00",
+    "venue": "West Oak Village",
+    "address": "2370 Third Line",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2018-07-05",
+    "time": "14:00",
+    "venue": "Village Manor",
+    "address": "57 John St W",
+    "city": "Waterdown",
+    "province": "ON"
+  },
+  {
+    "date": "2018-07-01",
+    "time": "14:00",
+    "venue": "Burlington Gardens",
+    "address": "300 Plains Rd W",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2018-06-29",
+    "time": "14:15",
+    "venue": "Hampton Terrace",
+    "address": "75 Plains Road West",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2018-06-28",
+    "time": "15:00",
+    "venue": "Forum Italia",
+    "address": "195 Forum Dr",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2018-06-21",
+    "time": "14:00",
+    "venue": "Hearthstone By The Lake",
+    "address": "100 Burloak Drive",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2018-06-14",
+    "time": "18:45",
+    "venue": "Sherbrooke Heights",
+    "address": "1434 Sherbrooke St",
+    "city": "Peterborough",
+    "province": "ON"
+  },
+  {
+    "date": "2018-06-10",
+    "time": "15:30",
+    "venue": "Queen's Square",
+    "address": "10 Melville St",
+    "city": "Cambridge",
+    "province": "ON"
+  },
+  {
+    "date": "2018-06-07",
+    "time": "14:00",
+    "venue": "Brierwood Gardens",
+    "address": "425 Park Rd N",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2018-06-06",
+    "time": "14:00",
+    "venue": "Westmount Terrace",
+    "address": "723 Rymal Rd W",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2018-05-27",
+    "time": "14:00",
+    "venue": "The Regency",
+    "address": "91 Concession St",
+    "city": "Lakefield",
+    "province": "ON"
+  },
+  {
+    "date": "2018-05-26",
+    "time": "15:00",
+    "venue": "Private Function (Wedding)",
+    "address": "610 York Blvd",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2018-05-25",
+    "time": "19:30",
+    "venue": "Al Dente Pasta Pizza Grill",
+    "address": "250 King George Rd",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2018-05-24",
+    "time": "14:00",
+    "venue": "The Kensington",
+    "address": "25 Lakeshore Rd W",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2018-05-23",
+    "time": "14:00",
+    "venue": "Heritage Glen",
+    "address": "6515 Glen Erin Dr",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2018-04-19",
+    "time": "19:00",
+    "venue": "Al Dente Pasta Pizza Grill",
+    "address": "250 King George Rd",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2018-04-18",
+    "time": "14:00",
+    "venue": "West Oak Village",
+    "address": "2370 Third Line",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2018-04-10",
+    "time": "14:00",
+    "venue": "West Oak Village",
+    "address": "2370 Third Line",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2018-04-04",
+    "time": "16:00",
+    "venue": "Village Of Tansley Woods",
+    "address": "4100 Upper Middle Rd",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2018-03-24",
+    "time": "19:15",
+    "venue": "Tansley Woods",
+    "address": "4100 Upper Middle Rd",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2018-03-24",
+    "time": "14:00",
+    "venue": "Deerview Crossing",
+    "address": "460 Rymal Rd West",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2018-03-17",
+    "time": "19:30",
+    "venue": "Al Dente Pasta Pizza Grill",
+    "address": "250 King George Rd",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2018-03-17",
+    "time": "14:00",
+    "venue": "Lakeshore Place",
+    "address": "5314 Lakeshore Rd",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2018-03-15",
+    "time": "14:00",
+    "venue": "The Court At Rushdale",
+    "address": "1360 Upper Sherman Ave",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2018-03-03",
+    "time": "14:00",
+    "venue": "Aberdeen Gardens",
+    "address": "330 Dundurn St S",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2018-03-02",
+    "time": "19:30",
+    "venue": "Al Dente Pasta Pizza Grill",
+    "address": "250 King George Rd",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2018-02-28",
+    "time": "18:30",
+    "venue": "West Oak Village",
+    "address": "2370 Third Line",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2018-02-15",
+    "time": "14:00",
+    "venue": "Brierwood Gardens",
+    "address": "425 Park Rd N",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2018-02-14",
+    "time": "19:00",
+    "venue": "Lakeshore Place",
+    "address": "5314 Lakeshore Rd",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2018-02-09",
+    "time": "19:30",
+    "venue": "Al Dente Pasta Pizza Grill",
+    "address": "250 King George Rd",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2018-02-08",
+    "time": "18:45",
+    "venue": "Sherbrooke Heights",
+    "address": "1434 Sherbrooke St",
+    "city": "Peterborough",
+    "province": "ON"
+  },
+  {
+    "date": "2018-01-30",
+    "time": "19:00",
+    "venue": "Shalom Village",
+    "address": "70 Macklin St N",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2018-01-29",
+    "time": "14:00",
+    "venue": "SLEC",
+    "address": "2030 Bristol Cir #120",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2018-01-26",
+    "time": "15:00",
+    "venue": "Queens Avenue",
+    "address": "1056 Queens Ave",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2018-01-24",
+    "time": "19:00",
+    "venue": "Shalom Village",
+    "address": "70 Macklin St N",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2018-01-23",
+    "time": "14:00",
+    "venue": "Westmount Terrace",
+    "address": "723 Rymal Rd W",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2018-01-19",
+    "time": "14:00",
+    "venue": "Lundy Manor",
+    "address": "7860 Lundy's Ln",
+    "city": "Niagara Falls",
+    "province": "ON"
+  },
+  {
+    "date": "2018-01-18",
+    "time": "19:00",
+    "venue": "Al Dente Pasta Pizza Grill",
+    "address": "250 King George Rd",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2018-01-10",
+    "time": "14:15",
+    "venue": "Hampton Terrace",
+    "address": "75 Plains Road West",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2017-12-29",
+    "time": "14:00",
+    "venue": "Lakeshore Place",
+    "address": "5314 Lakeshore Rd",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2017-12-11",
+    "time": "12:00",
+    "venue": "Friendship House",
+    "address": "452 Grey St",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2017-12-07",
+    "time": "19:00",
+    "venue": "Al Dente Pasta Pizza Grill",
+    "address": "250 King George Rd",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2017-12-05",
+    "time": "19:00",
+    "venue": "Queensview",
+    "address": "70 King Edward St",
+    "city": "Paris",
+    "province": "ON"
+  },
+  {
+    "date": "2017-12-02",
+    "time": "14:15",
+    "venue": "Hampton Terrace",
+    "address": "75 Plains Road West",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2017-12-02",
+    "time": "14:00",
+    "venue": "Bough Beeches",
+    "address": "1130 Bough Beeches Blvd",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2017-11-26",
+    "time": "14:00",
+    "venue": "Sun Parlour Coffee House Sessions",
+    "address": "2021 Division Rd",
+    "city": "Kingsville",
+    "province": "ON"
+  },
+  {
+    "date": "2017-10-24",
+    "time": "14:00",
+    "venue": "The Kensington",
+    "address": "25 Lakeshore Rd W",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2017-10-22",
+    "time": "15:30",
+    "venue": "Queen's Square",
+    "address": "10 Melville St N",
+    "city": "Cambridge",
+    "province": "ON"
+  },
+  {
+    "date": "2017-10-21",
+    "time": "19:00",
+    "venue": "Village Of Tansley Woods",
+    "address": "4100 Upper Middle Rd",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2017-09-30",
+    "time": "12:00",
+    "venue": "Burlington Culture Days",
+    "address": "461 Elizabeth St",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2017-09-14",
+    "time": "14:00",
+    "venue": "Park View",
+    "address": "254 Dalhousie St",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2017-09-11",
+    "time": "14:30",
+    "venue": "Bankside",
+    "address": "71 Bankside Drive",
+    "city": "Kitchener",
+    "province": "ON"
+  },
+  {
+    "date": "2017-09-09",
+    "time": "11:45",
+    "venue": "Westmount Terrace",
+    "address": "723 Rymal Rd W",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2017-09-01",
+    "time": "15:00",
+    "venue": "Queens Avenue",
+    "address": "1056 Queens Ave",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2017-08-31",
+    "time": "19:00",
+    "venue": "Waterford, Old Town Hall",
+    "address": "76 Main St S",
+    "city": "Waterford",
+    "province": "ON"
+  },
+  {
+    "date": "2017-08-29",
+    "time": "19:00",
+    "venue": "Queensview",
+    "address": "70 King Edward St",
+    "city": "Paris",
+    "province": "ON"
+  },
+  {
+    "date": "2017-08-27",
+    "time": "14:00",
+    "venue": "The Court At Rushdale",
+    "address": "1360 Upper Sherman Ave",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2017-08-26",
+    "time": "14:00",
+    "venue": "Stamford Estates",
+    "address": "3900 Portage Rd",
+    "city": "Niagara Falls",
+    "province": "ON"
+  },
+  {
+    "date": "2017-08-24",
+    "time": "18:30",
+    "venue": "Walter Williams Amphitheatre",
+    "address": "36 Laurel St",
+    "city": "Paris",
+    "province": "ON"
+  },
+  {
+    "date": "2017-08-20",
+    "time": "14:00",
+    "venue": "The Queen' s Head Pub",
+    "address": "400 Brant St",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2017-08-14",
+    "time": "14:00",
+    "venue": "Allendale",
+    "address": "185 Ontario St S",
+    "city": "Milton",
+    "province": "ON"
+  },
+  {
+    "date": "2017-08-12",
+    "time": "15:30",
+    "venue": "House Concert",
+    "address": "Orkney Rd",
+    "city": "Flamborough",
+    "province": "ON"
+  },
+  {
+    "date": "2017-08-09",
+    "time": "19:00",
+    "venue": "Shalom Village",
+    "address": "70 Macklin St N",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2017-08-06",
+    "time": "12:00",
+    "venue": "Lynn River Music and Arts Festival",
+    "address": "50 Bonnie Drive",
+    "city": "Simcoe",
+    "province": "ON"
+  },
+  {
+    "date": "2017-07-16",
+    "time": "14:00",
+    "venue": "The Queen' s Head Pub",
+    "address": "400 Brant St",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2017-06-30",
+    "time": "15:00",
+    "venue": "Forum Italia",
+    "address": "155 Forum Drive",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2017-06-29",
+    "time": "18:30",
+    "venue": "Walter Williams Amphitheatre",
+    "address": "36 Laurel St",
+    "city": "Paris",
+    "province": "ON"
+  },
+  {
+    "date": "2017-06-26",
+    "time": "14:00",
+    "venue": "SLEC",
+    "address": "2030 Bristol Cir #120",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2017-06-25",
+    "time": "14:00",
+    "venue": "The Queen' s Head Pub",
+    "address": "400 Brant St",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2017-06-24",
+    "time": "19:00",
+    "venue": "Village Of Tansley Woods",
+    "address": "4100 Upper Middle Rd",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2017-06-21",
+    "time": "14:30",
+    "venue": "Tranquility Place",
+    "address": "436 Powerline Rd",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2017-06-17",
+    "time": "19:00",
+    "venue": "Village Of Tansley Woods",
+    "address": "4100 Upper Middle Road",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2017-06-10",
+    "time": "14:00",
+    "venue": "Brierwood Gardens",
+    "address": "425 Park Rd N",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2017-06-09",
+    "time": "15:00",
+    "venue": "Queen's Avenue",
+    "address": "1056 Queens Ave",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2017-06-03",
+    "time": "14:00",
+    "venue": "Brantford Music Centre",
+    "address": "",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2017-06-02",
+    "time": "19:00",
+    "venue": "Bronte Harbourside Restaurant",
+    "address": "2416 Lakeshore Rd West",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2017-05-28",
+    "time": "14:00",
+    "venue": "The Queen' s Head Pub",
+    "address": "400 Brant St",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2017-05-27",
+    "time": "10:00",
+    "venue": "CFMU - Freewheelin' Folk Show",
+    "address": "1280 Main St W",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2017-05-16",
+    "time": "19:00",
+    "venue": "Queensview",
+    "address": "70 King Edward St",
+    "city": "Paris",
+    "province": "ON"
+  },
+  {
+    "date": "2017-05-05",
+    "time": "19:00",
+    "venue": "Bronte Harbourside Restaurant",
+    "address": "2416 Lakeshore Rd West",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2017-05-01",
+    "time": "19:00",
+    "venue": "Westmount Terrace",
+    "address": "723 Rymal Rd W",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2017-04-28",
+    "time": "19:00",
+    "venue": "Al Dente Pasta Pizza Grill",
+    "address": "250 King George Rd",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2017-04-26",
+    "time": "16:00",
+    "venue": "Village Of Tansley Woods",
+    "address": "4100 Upper Middle Rd",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2017-04-23",
+    "time": "14:00",
+    "venue": "The Queen' s Head Pub",
+    "address": "400 Brant St",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2017-04-19",
+    "time": "14:30",
+    "venue": "Tranquility Place",
+    "address": "436 Powerline Rd",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2017-04-09",
+    "time": "14:00",
+    "venue": "The Queen' s Head Pub",
+    "address": "400 Brant St",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2017-04-07",
+    "time": "19:00",
+    "venue": "Bronte Harbourside Restaurant",
+    "address": "2416 Lakeshore Rd West",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2017-04-07",
+    "time": "15:00",
+    "venue": "Queens Avenue",
+    "address": "1056 Queens Ave",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2017-03-31",
+    "time": "19:00",
+    "venue": "Harbourside Artisan Kitchen & Bar",
+    "address": "2416 Lakeshore Rd W",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2017-03-22",
+    "time": "15:00",
+    "venue": "Villa Forum",
+    "address": "175 Forum Dr",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2017-03-19",
+    "time": "14:00",
+    "venue": "The Queen' s Head Pub",
+    "address": "400 Brant St",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2017-03-17",
+    "time": "13:30",
+    "venue": "Park Lane Terrace",
+    "address": "295 Grand River St N",
+    "city": "Paris",
+    "province": "ON"
+  },
+  {
+    "date": "2017-03-12",
+    "time": "14:00",
+    "venue": "The Queen' s Head Pub",
+    "address": "400 Brant St",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2017-03-04",
+    "time": "14:00",
+    "venue": "Aberdeen Gardens",
+    "address": "330 Dundurn St S",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2017-03-03",
+    "time": "19:00",
+    "venue": "Bronte Harbourside Restaurant",
+    "address": "2416 Lakeshore Rd West",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2017-03-01",
+    "time": "14:00",
+    "venue": "SLEC",
+    "address": "2030 Bristol Cir #120",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2017-02-27",
+    "time": "14:00",
+    "venue": "Lakeshore Place",
+    "address": "5314 Lakeshore Rd",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2017-02-26",
+    "time": "14:00",
+    "venue": "The Queen' s Head Pub",
+    "address": "400 Brant St",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2017-02-24",
+    "time": "19:00",
+    "venue": "Harbourside Artisan Kitchen",
+    "address": "2416 Lakeshore Rd West",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2017-02-20",
+    "time": "14:15",
+    "venue": "The Beechwood",
+    "address": "1500 Rathburn Rd E",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2017-02-16",
+    "time": "14:00",
+    "venue": "Brierwood Gardens",
+    "address": "425 Park Rd N",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2017-02-14",
+    "time": "19:00",
+    "venue": "Queensview",
+    "address": "70 King Edward St",
+    "city": "Paris",
+    "province": "ON"
+  },
+  {
+    "date": "2017-02-14",
+    "time": "14:30",
+    "venue": "Tranquility Place",
+    "address": "436 Powerline Rd",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2017-02-12",
+    "time": "14:00",
+    "venue": "The Queen' s Head Pub",
+    "address": "400 Brant St",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2017-02-04",
+    "time": "14:00",
+    "venue": "The Court At Rushdale",
+    "address": "1360 Upper Sherman Ave",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2017-01-29",
+    "time": "14:00",
+    "venue": "The Queen' s Head Pub",
+    "address": "400 Brant St",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2017-01-23",
+    "time": "14:00",
+    "venue": "Waterdown Manor",
+    "address": "335 Dundas St E",
+    "city": "Waterdown",
+    "province": "ON"
+  },
+  {
+    "date": "2017-01-19",
+    "time": "14:30",
+    "venue": "The Beechwood",
+    "address": "1500 Rathburn Rd E",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2017-01-15",
+    "time": "14:00",
+    "venue": "The Queen' s Head Pub",
+    "address": "400 Brant St",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2017-01-12",
+    "time": "19:15",
+    "venue": "The Beechwood",
+    "address": "1500 Rathburn Rd E",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2017-01-07",
+    "time": "14:00",
+    "venue": "Stamford Estates",
+    "address": "3900 Portage Rd",
+    "city": "Niagara Falls",
+    "province": "ON"
+  },
+  {
+    "date": "2017-01-06",
+    "time": "19:00",
+    "venue": "Bronte Harbourside Restaurant",
+    "address": "2416 Lakeshore Rd West",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2016-12-16",
+    "time": "17:30",
+    "venue": "Park View",
+    "address": "254 Dalhousie St",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2016-12-15",
+    "time": "15:00",
+    "venue": "The Pearl & Pine",
+    "address": "390 Pearl Street",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2016-12-15",
+    "time": "12:00",
+    "venue": "Friendship House",
+    "address": "452 Grey St",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2016-12-14",
+    "time": "13:00",
+    "venue": "Cable 14 TV",
+    "address": "150 Dundurn St. South",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2016-12-11",
+    "time": "14:00",
+    "venue": "The Queen' s Head Pub",
+    "address": "400 Brant St",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2016-12-09",
+    "time": "19:00",
+    "venue": "Harbourside Cafe",
+    "address": "2416 Lakeshore Rd West",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2016-12-01",
+    "time": "18:30",
+    "venue": "Hearthstone By The Lake",
+    "address": "100 Burloak Drive",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2016-11-30",
+    "time": "14:00",
+    "venue": "Maplecrest",
+    "address": "85 Main Street",
+    "city": "Grimsby",
+    "province": "ON"
+  },
+  {
+    "date": "2016-11-27",
+    "time": "14:00",
+    "venue": "The Queen' s Head Pub",
+    "address": "400 Brant St",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2016-11-22",
+    "time": "14:00",
+    "venue": "The Royal Henley",
+    "address": "582 Ontario St",
+    "city": "St. Catharines",
+    "province": "ON"
+  },
+  {
+    "date": "2016-11-19",
+    "time": "14:00",
+    "venue": "Brierwood Gardens",
+    "address": "425 Park Road North",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2016-11-17",
+    "time": "14:00",
+    "venue": "Burlington Gardens",
+    "address": "300 Plains Rd W",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2016-11-16",
+    "time": "14:00",
+    "venue": "The Queen' s Head Pub",
+    "address": "400 Brant St",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2016-11-15",
+    "time": "13:45",
+    "venue": "SLEC",
+    "address": "Suite 120, 2030 Bristol Circle",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2016-11-09",
+    "time": "19:00",
+    "venue": "The Queen' s Head Pub",
+    "address": "400 Brant St",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2016-11-01",
+    "time": "19:30",
+    "venue": "Delmanor Glen Abbey",
+    "address": "1459 Nottinghill Gate",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2016-10-26",
+    "time": "19:00",
+    "venue": "Shalom Village",
+    "address": "70 Macklin St N",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2016-10-23",
+    "time": "14:00",
+    "venue": "Station Coffee House & Gallery",
+    "address": "5 Wadsworth St",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2016-10-22",
+    "time": "14:00",
+    "venue": "Brierwood Gardens",
+    "address": "425 Park Road North",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2016-10-21",
+    "time": "15:30",
+    "venue": "LaSalle Park",
+    "address": "18 Plains Rd W",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2016-10-20",
+    "time": "18:30",
+    "venue": "Allendale Milton",
+    "address": "185 Ontario St S",
+    "city": "Milton",
+    "province": "ON"
+  },
+  {
+    "date": "2016-10-16",
+    "time": "14:00",
+    "venue": "The Queen' s Head Pub",
+    "address": "400 Brant St",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2016-10-12",
+    "time": "19:00",
+    "venue": "The Queen' s Head Pub",
+    "address": "400 Brant St",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2016-10-12",
+    "time": "14:00",
+    "venue": "Lakeshore Place",
+    "address": "5314 Lakeshore Road",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2016-09-30",
+    "time": "15:00",
+    "venue": "Queens Avenuw",
+    "address": "1056 Queens Ave",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2016-09-24",
+    "time": "19:00",
+    "venue": "Maplecrest Village",
+    "address": "85 Main St E",
+    "city": "Grimsby",
+    "province": "ON"
+  },
+  {
+    "date": "2016-09-23",
+    "time": "15:00",
+    "venue": "Queens Avenue",
+    "address": "1056 Queens Ave",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2016-09-20",
+    "time": "19:00",
+    "venue": "Shalom Village",
+    "address": "70 Macklin St N",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2016-09-17",
+    "time": "14:00",
+    "venue": "Lakeshore Place",
+    "address": "5314 Lakeshore Rd",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2016-09-14",
+    "time": "19:00",
+    "venue": "The Queen' s Head Pub",
+    "address": "400 Brant St",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2016-08-31",
+    "time": "19:00",
+    "venue": "The Queen' s Head Pub",
+    "address": "400 Brant St",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2016-08-31",
+    "time": "19:00",
+    "venue": "Westmount Terrace",
+    "address": "723 Rymal Rd. West",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2016-08-30",
+    "time": "14:00",
+    "venue": "Brierwood Gardens",
+    "address": "425 Park Road North",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2016-08-25",
+    "time": "15:00",
+    "venue": "The Pearl & Pine",
+    "address": "390 Pearl Street",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2016-08-18",
+    "time": "14:00",
+    "venue": "The Kensington",
+    "address": "25 Lakeshore Rd W",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2016-08-17",
+    "time": "19:00",
+    "venue": "The Queen' s Head Pub",
+    "address": "400 Brant St",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2016-08-13",
+    "time": "16:00",
+    "venue": "House Concert",
+    "address": "95 ORKNEY RD",
+    "city": "Flamborough",
+    "province": "ON"
+  },
+  {
+    "date": "2016-08-12",
+    "time": "19:00",
+    "venue": "St. George Legion",
+    "address": "9 Main Street North",
+    "city": "St. George",
+    "province": "ON"
+  },
+  {
+    "date": "2016-08-06",
+    "time": "11:00",
+    "venue": "CHML - AM900",
+    "address": "875 Main Street West",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2016-08-04",
+    "time": "18:30",
+    "venue": "Walter Williams Amphitheatre",
+    "address": "36-96 Laurel Street",
+    "city": "Paris",
+    "province": "ON"
+  },
+  {
+    "date": "2016-08-03",
+    "time": "19:00",
+    "venue": "The Queen' s Head Pub",
+    "address": "400 Brant St",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2016-07-30",
+    "time": "14:00",
+    "venue": "Lakeshore Place",
+    "address": "5314 Lakeshore Road",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2016-07-23",
+    "time": "14:00",
+    "venue": "Brierwood Gardens",
+    "address": "425 Park Road North",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2016-07-20",
+    "time": "19:00",
+    "venue": "The Queen' s Head Pub",
+    "address": "400 Brant St",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2016-07-20",
+    "time": "13:30",
+    "venue": "Park Lane Terrace",
+    "address": "295 Grand River St N",
+    "city": "Paris",
+    "province": "ON"
+  },
+  {
+    "date": "2016-07-16",
+    "time": "14:00",
+    "venue": "House Concert",
+    "address": "1155 First Avenue West",
+    "city": "Owen Sound",
+    "province": "ON"
+  },
+  {
+    "date": "2016-07-07",
+    "time": "18:30",
+    "venue": "Walter Williams Amphitheatre",
+    "address": "36-96 Laurel Street",
+    "city": "Paris",
+    "province": "ON"
+  },
+  {
+    "date": "2016-07-06",
+    "time": "19:00",
+    "venue": "The Queen' s Head Pub",
+    "address": "400 Brant St",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2016-06-30",
+    "time": "14:00",
+    "venue": "Westmount Terrace",
+    "address": "723 Rymal Rd W",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2016-06-25",
+    "time": "14:00",
+    "venue": "Brantford Music Centre",
+    "address": "",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2016-06-22",
+    "time": "19:00",
+    "venue": "The Queen' s Head Pub",
+    "address": "400 Brant St",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2016-06-08",
+    "time": "19:00",
+    "venue": "The Queen' s Head Pub",
+    "address": "400 Brant St",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2016-06-02",
+    "time": "14:00",
+    "venue": "The Kensington",
+    "address": "25 Lakeshore Rd W",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2016-05-30",
+    "time": "14:00",
+    "venue": "Westmount Terrace",
+    "address": "723 Rymal Rd W",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2016-05-26",
+    "time": "14:00",
+    "venue": "Pearl & Pine",
+    "address": "390 Pearl Street",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2016-05-25",
+    "time": "19:00",
+    "venue": "The Queen' s Head Pub",
+    "address": "400 Brant St",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2016-05-14",
+    "time": "20:00",
+    "venue": "St. George Legion",
+    "address": "9 Main St N",
+    "city": "St. George",
+    "province": "ON"
+  },
+  {
+    "date": "2016-05-11",
+    "time": "19:00",
+    "venue": "The Queen' s Head Pub",
+    "address": "400 Brant St",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2016-05-02",
+    "time": "19:15",
+    "venue": "The Beechwood",
+    "address": "1500 Rathburn Rd E",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2016-04-30",
+    "time": "14:00",
+    "venue": "Aberdeen Gardens",
+    "address": "330 Dundurn St South",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2016-04-27",
+    "time": "19:00",
+    "venue": "The Queen' s Head Pub",
+    "address": "400 Brant St",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2016-04-23",
+    "time": "14:00",
+    "venue": "Lakeshore Place",
+    "address": "5314 Lakeshore Rd",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2016-04-16",
+    "time": "14:30",
+    "venue": "Stamford Estates",
+    "address": "3900 Portage Rd",
+    "city": "Niagara Falls",
+    "province": "ON"
+  },
+  {
+    "date": "2016-04-13",
+    "time": "19:00",
+    "venue": "The Queen' s Head Pub",
+    "address": "400 Brant St",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2016-04-06",
+    "time": "14:00",
+    "venue": "Maplecrest Village",
+    "address": "85 Main St E",
+    "city": "Grimsby",
+    "province": "ON"
+  },
+  {
+    "date": "2016-03-30",
+    "time": "13:30",
+    "venue": "Park Lane Terrace",
+    "address": "295 Grand River St N",
+    "city": "Paris",
+    "province": "ON"
+  },
+  {
+    "date": "2016-03-18",
+    "time": "14:30",
+    "venue": "Lakeview Centre",
+    "address": "339 Highway 8",
+    "city": "Stoney Creek",
+    "province": "ON"
+  },
+  {
+    "date": "2016-03-17",
+    "time": "14:30",
+    "venue": "Queensview",
+    "address": "70 King Edward Street",
+    "city": "Paris",
+    "province": "ON"
+  },
+  {
+    "date": "2016-03-12",
+    "time": "14:00",
+    "venue": "The Court At Rushdale",
+    "address": "1360 Upper Sherman Avenue",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2016-02-18",
+    "time": "15:00",
+    "venue": "Pearl And Pine",
+    "address": "390 Pearl Street",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2016-02-17",
+    "time": "13:30",
+    "venue": "SLEC",
+    "address": "2030 Bristol Cir #120",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2016-02-12",
+    "time": "14:00",
+    "venue": "Dundas Retirement Place",
+    "address": "33 Main St",
+    "city": "Dundas",
+    "province": "ON"
+  },
+  {
+    "date": "2016-02-04",
+    "time": "14:00",
+    "venue": "Brierwood Gardens",
+    "address": "425 Park Road North",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2016-02-03",
+    "time": "19:00",
+    "venue": "Lakeshore Place",
+    "address": "5314 Lakeshore Road",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2016-01-23",
+    "time": "14:00",
+    "venue": "Lakeshore Place",
+    "address": "5314 Lakeshore Rd",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2015-12-18",
+    "time": "19:00",
+    "venue": "Lakeshore Place",
+    "address": "5314 Lakeshore Road",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2015-12-17",
+    "time": "11:30",
+    "venue": "Friendship House",
+    "address": "452 Grey St",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2015-12-11",
+    "time": "19:00",
+    "venue": "St. George Legion",
+    "address": "",
+    "city": "St George",
+    "province": "ON"
+  },
+  {
+    "date": "2015-12-05",
+    "time": "19:30",
+    "venue": "The Kensington",
+    "address": "25 Lakeshore Rd W",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2015-12-01",
+    "time": "14:00",
+    "venue": "Rubidge Retirement Residence",
+    "address": "270 Rubidge St",
+    "city": "Peterborough",
+    "province": "ON"
+  },
+  {
+    "date": "2015-11-28",
+    "time": "14:00",
+    "venue": "Aberdeen Gardens",
+    "address": "330 Dundurn St S",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2015-11-24",
+    "time": "14:00",
+    "venue": "Lakeshore Place",
+    "address": "5314 Lakeshore Rd",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2015-11-14",
+    "time": "14:30",
+    "venue": "Stamford Estates",
+    "address": "3900 Portage Rd",
+    "city": "Niagara Falls",
+    "province": "ON"
+  },
+  {
+    "date": "2015-11-08",
+    "time": "14:00",
+    "venue": "Station Coffee House",
+    "address": "",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2015-10-30",
+    "time": "19:00",
+    "venue": "Burlington Gardens",
+    "address": "300 Plains Rd W",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2015-10-24",
+    "time": "14:00",
+    "venue": "The Court At Rushdale",
+    "address": "1360 Upper Sherman Avenue",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2015-10-22",
+    "time": "15:00",
+    "venue": "The Pearl & Pine",
+    "address": "390 Pearl Street",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2015-10-16",
+    "time": "20:00",
+    "venue": "Bay City Music Hall",
+    "address": "50 Leander Drive",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2015-10-14",
+    "time": "14:00",
+    "venue": "Westmount Terrace",
+    "address": "723 Rymal Road West",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2015-10-12",
+    "time": "17:00",
+    "venue": "Constitution Place",
+    "address": "3051 Constitution Blvd",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2015-10-03",
+    "time": "14:00",
+    "venue": "Brantford Music Centre",
+    "address": "",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2015-09-27",
+    "time": "14:00",
+    "venue": "Anchor Pointe",
+    "address": "540 Ontario Street",
+    "city": "St. Catharines",
+    "province": "ON"
+  },
+  {
+    "date": "2015-09-17",
+    "time": "19:15",
+    "venue": "The Beechwood",
+    "address": "1500 Rathburn Rd E",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2015-09-15",
+    "time": "19:30",
+    "venue": "Montfort Restaurant",
+    "address": "796 Brant Street",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2015-09-07",
+    "time": "14:00",
+    "venue": "Stamford Estates",
+    "address": "3900 Portage Rd",
+    "city": "Niagara Falls",
+    "province": "ON"
+  },
+  {
+    "date": "2015-08-27",
+    "time": "16:30",
+    "venue": "Brierwood Gardens",
+    "address": "425 Park Road North",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2015-08-23",
+    "time": "14:00",
+    "venue": "Station Coffee House & Gallery",
+    "address": "5 Wadsworth St",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2015-08-22",
+    "time": "16:00",
+    "venue": "House Concert",
+    "address": "50 Orkney road",
+    "city": "Flamborough",
+    "province": "ON"
+  },
+  {
+    "date": "2015-08-10",
+    "time": "12:00",
+    "venue": "Union Summer 2015 (At Union Station)",
+    "address": "65 Front St West",
+    "city": "Toronto",
+    "province": "ON"
+  },
+  {
+    "date": "2015-08-09",
+    "time": "14:00",
+    "venue": "The Court At Rushdale",
+    "address": "1360 Upper Sherman Avenue",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2015-08-06",
+    "time": "19:00",
+    "venue": "Walter Williams Amphitheatre",
+    "address": "36-96 Laurel Street",
+    "city": "Paris",
+    "province": "ON"
+  },
+  {
+    "date": "2015-08-04",
+    "time": "19:30",
+    "venue": "Montfort Restaurant",
+    "address": "796 Brant Street",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2015-07-30",
+    "time": "19:00",
+    "venue": "Hall Summer Concert Series",
+    "address": "76 Main Street South",
+    "city": "Waterford",
+    "province": "ON"
+  },
+  {
+    "date": "2015-07-26",
+    "time": "12:00",
+    "venue": "CJ's Cafe, 2416 Lakeshore Rd. West",
+    "address": "",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2015-07-21",
+    "time": "19:30",
+    "venue": "Montfort Restaurant",
+    "address": "796 Brant Street",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2015-07-19",
+    "time": "14:00",
+    "venue": "Station Coffee House",
+    "address": "",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2015-07-11",
+    "time": "16:00",
+    "venue": "Walter Williams Amphitheatre",
+    "address": "36-96 Laurel St",
+    "city": "Paris",
+    "province": "ON"
+  },
+  {
+    "date": "2015-07-09",
+    "time": "14:30",
+    "venue": "Aberdeen Gardens",
+    "address": "330 Dundurn St S",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2015-07-07",
+    "time": "19:30",
+    "venue": "Montfort Restaurant",
+    "address": "796 Brant Street",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2015-07-03",
+    "time": "15:00",
+    "venue": "Forum Italia",
+    "address": "195 Forum Drive",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2015-07-01",
+    "time": "14:00",
+    "venue": "The Kensington",
+    "address": "25 Lakeshore Rd West",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2015-06-30",
+    "time": "14:00",
+    "venue": "Maplecrest Village",
+    "address": "85 Main St E",
+    "city": "Grimsby",
+    "province": "ON"
+  },
+  {
+    "date": "2015-06-26",
+    "time": "15:00",
+    "venue": "Queens Avenue",
+    "address": "1056 Queens Ave",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2015-06-23",
+    "time": "19:30",
+    "venue": "Montfort Restaurant",
+    "address": "796 Brant Street",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2015-06-17",
+    "time": "19:30",
+    "venue": "Montfort Restaurant",
+    "address": "796 Brant Street",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2015-06-14",
+    "time": "12:00",
+    "venue": "CJ's Cafe in Bronte",
+    "address": "2416 Lakeshore Rd W",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2015-06-12",
+    "time": "19:00",
+    "venue": "St. George Legion",
+    "address": "9 Main Street North",
+    "city": "St. George",
+    "province": "ON"
+  },
+  {
+    "date": "2015-06-09",
+    "time": "19:30",
+    "venue": "Montfort Restaurant",
+    "address": "796 Brant Street",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2015-06-07",
+    "time": "14:00",
+    "venue": "Station Coffee House & Gallery",
+    "address": "5 Wadsworth St",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2015-05-29",
+    "time": "15:00",
+    "venue": "Appleby Place",
+    "address": "500 Appleby Line",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2015-05-09",
+    "time": "14:00",
+    "venue": "Brierwood Gardens",
+    "address": "425 Park Road North",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2015-05-06",
+    "time": "14:00",
+    "venue": "Westmount Terrace",
+    "address": "723 Rymal Road West",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2015-04-30",
+    "time": "14:00",
+    "venue": "Lakeshore Place",
+    "address": "5314 Lakeshore Road",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2015-04-28",
+    "time": "19:30",
+    "venue": "Montfort Restaurant",
+    "address": "796 Brant Street",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2015-04-14",
+    "time": "19:30",
+    "venue": "Montfort Restaurant",
+    "address": "796 Brant Street",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2015-04-03",
+    "time": "14:30",
+    "venue": "Aberdeen Gardens",
+    "address": "330 Dundurn St S",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2015-03-31",
+    "time": "19:30",
+    "venue": "Montfort Restaurant",
+    "address": "796 Brant Street",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2015-03-17",
+    "time": "19:30",
+    "venue": "Montfort Restaurant",
+    "address": "796 Brant Street",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2015-03-17",
+    "time": "14:00",
+    "venue": "The Court At Rushdale",
+    "address": "1360 Upper Sherman Ave",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2015-03-03",
+    "time": "19:30",
+    "venue": "Montfort Restaurant",
+    "address": "796 Brant Street",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2015-02-21",
+    "time": "17:00",
+    "venue": "St. George Legion",
+    "address": "9 Main St. North",
+    "city": "St. George",
+    "province": "ON"
+  },
+  {
+    "date": "2015-02-17",
+    "time": "19:30",
+    "venue": "Montfort Restaurant",
+    "address": "796 Brant Street",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2015-02-14",
+    "time": "14:00",
+    "venue": "Lakeshore Place",
+    "address": "5314 Lakeshore Road",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2015-02-06",
+    "time": "15:00",
+    "venue": "Queens Avenue",
+    "address": "1056 Queens Ave",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2015-02-04",
+    "time": "20:00",
+    "venue": "Montfort Restaurant",
+    "address": "796 Brant Street",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2015-01-25",
+    "time": "14:00",
+    "venue": "The Station Coffee House & Gallery",
+    "address": "",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2015-01-20",
+    "time": "19:30",
+    "venue": "Montfort Restaurant",
+    "address": "796 Brant Street",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2014-12-14",
+    "time": "14:00",
+    "venue": "Historical Society Museum",
+    "address": "36 Main St. South",
+    "city": "St. George",
+    "province": "ON"
+  },
+  {
+    "date": "2014-12-11",
+    "time": "12:00",
+    "venue": "Friendship House",
+    "address": "452 Grey St",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2014-12-09",
+    "time": "19:00",
+    "venue": "Shalom Village",
+    "address": "70 Macklin St North",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2014-12-06",
+    "time": "14:00",
+    "venue": "Brantford Music Centre",
+    "address": "422 Colborne St",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2014-11-29",
+    "time": "18:00",
+    "venue": "Brown Dog Coffee Shop",
+    "address": "41 Main St S",
+    "city": "St. George",
+    "province": "ON"
+  },
+  {
+    "date": "2014-11-29",
+    "time": "14:00",
+    "venue": "Aberdeen Gardens",
+    "address": "330 Dundurn Street South",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2014-11-22",
+    "time": "19:15",
+    "venue": "Appleby Place",
+    "address": "500 Appleby Line",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2014-11-14",
+    "time": "19:00",
+    "venue": "St. George Legion",
+    "address": "9 Main St. North",
+    "city": "St. George",
+    "province": "ON"
+  },
+  {
+    "date": "2014-10-31",
+    "time": "19:00",
+    "venue": "Dundas Residence",
+    "address": "33 Main St",
+    "city": "Dundas",
+    "province": "ON"
+  },
+  {
+    "date": "2014-10-25",
+    "time": "19:15",
+    "venue": "Appleby Place",
+    "address": "500 Appleby Line",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2014-10-07",
+    "time": "19:00",
+    "venue": "Shalom Village",
+    "address": "70 Macklin Street North",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2014-10-04",
+    "time": "14:00",
+    "venue": "Lakeshore Place",
+    "address": "5314 Lakeshore Rd",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2014-10-02",
+    "time": "19:30",
+    "venue": "The Beechwood",
+    "address": "1500 Rathburn Rd. East",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2014-09-28",
+    "time": "12:00",
+    "venue": "CJ's Cafe",
+    "address": "2416 Lakeshore Rd W",
+    "city": "Bronte",
+    "province": "ON"
+  },
+  {
+    "date": "2014-09-10",
+    "time": "14:00",
+    "venue": "Parkview",
+    "address": "72 Town Centre Dr",
+    "city": "Townsend",
+    "province": "ON"
+  },
+  {
+    "date": "2014-09-02",
+    "time": "14:00",
+    "venue": "Allendale Milton",
+    "address": "185 Ontario Street South",
+    "city": "Milton",
+    "province": "ON"
+  },
+  {
+    "date": "2014-08-21",
+    "time": "19:00",
+    "venue": "Hall Summer Concert Series",
+    "address": "76 Main St. South",
+    "city": "Waterford",
+    "province": "ON"
+  },
+  {
+    "date": "2014-08-19",
+    "time": "14:00",
+    "venue": "Westmount Terrace",
+    "address": "723 Rymal Rd. West",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2014-08-09",
+    "time": "16:30",
+    "venue": "Private Event",
+    "address": "Orkney Road",
+    "city": "Flamborough",
+    "province": "ON"
+  },
+  {
+    "date": "2014-07-26",
+    "time": "14:00",
+    "venue": "Brierwood Gardens",
+    "address": "425 Park Road North",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2014-07-20",
+    "time": "12:00",
+    "venue": "CJ's Cafe, 2416 Lakeshore Rd. West",
+    "address": "",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2014-07-11",
+    "time": "12:00",
+    "venue": "HOTAfest 2014",
+    "address": "415 Water St",
+    "city": "Titusville",
+    "province": "PA"
+  },
+  {
+    "date": "2014-07-10",
+    "time": "14:00",
+    "venue": "Aberdeen Gardens",
+    "address": "330 Dundurn Street South",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2014-07-05",
+    "time": "14:00",
+    "venue": "The Court At Rushdale",
+    "address": "1360 Upper Sherman Ave",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2014-07-03",
+    "time": "15:00",
+    "venue": "Villa Italia",
+    "address": "155 Forum Dr",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2014-07-01",
+    "time": "14:00",
+    "venue": "The Village Of Erin Meadows",
+    "address": "2930 Erin Centre Boulevard",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2014-07-01",
+    "time": "11:45",
+    "venue": "St. George Canada Day Celebrations",
+    "address": "Main Street",
+    "city": "St. George",
+    "province": "ON"
+  },
+  {
+    "date": "2014-06-30",
+    "time": "14:15",
+    "venue": "Park View",
+    "address": "254 Dalhousie St",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2014-06-25",
+    "time": "19:30",
+    "venue": "Second Cup, 1477 Lakeshore Rd. East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2014-06-22",
+    "time": "14:00",
+    "venue": "The Station Coffee House & Art Gallery",
+    "address": "5 Wadsworth St",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2014-06-14",
+    "time": "19:15",
+    "venue": "Appleby Place",
+    "address": "500 Appleby Line",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2014-06-13",
+    "time": "20:00",
+    "venue": "St. George Legion",
+    "address": "9 Main Street North",
+    "city": "St. George",
+    "province": "ON"
+  },
+  {
+    "date": "2014-06-12",
+    "time": "19:30",
+    "venue": "The Beechwood",
+    "address": "1500 Rathburn Road East",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2014-06-11",
+    "time": "19:30",
+    "venue": "Second Cup, 1477 Lakeshore Rd. East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2014-06-08",
+    "time": "11:30",
+    "venue": "6981 Puslinch Conc. 4 Donkey Day 2014",
+    "address": "RR#6",
+    "city": "Guelph",
+    "province": "ON"
+  },
+  {
+    "date": "2014-05-28",
+    "time": "19:30",
+    "venue": "Second Cup, 1477 Lakeshore Rd. East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2014-05-25",
+    "time": "12:00",
+    "venue": "CJ's Cafe, 2416 Lakeshore Rd. West",
+    "address": "",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2014-05-22",
+    "time": "21:30",
+    "venue": "Moonshine Cafe, 137 Kerr Tin Pan North 2014",
+    "address": "St",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2014-05-18",
+    "time": "19:00",
+    "venue": "Burlington Gardens",
+    "address": "300 Plains Road West",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2014-05-14",
+    "time": "19:30",
+    "venue": "Second Cup, 1477 Lakeshore Rd. East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2014-05-09",
+    "time": "14:30",
+    "venue": "Waterdown Manor",
+    "address": "335 Dundas Street East",
+    "city": "Waterdown",
+    "province": "ON"
+  },
+  {
+    "date": "2014-05-08",
+    "time": "19:00",
+    "venue": "Lakeshore Place",
+    "address": "5314 Lakeshore Road",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2014-04-30",
+    "time": "19:30",
+    "venue": "Second Cup, 1477 Lakeshore Rd. East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2014-04-30",
+    "time": "13:30",
+    "venue": "Waterdown Manor",
+    "address": "335 Dundas Street East",
+    "city": "Waterdown",
+    "province": "ON"
+  },
+  {
+    "date": "2014-04-26",
+    "time": "19:30",
+    "venue": "Stedman Hospice Fundraiser",
+    "address": "St. George Legion, 9 Main St. North",
+    "city": "St. George",
+    "province": "ON"
+  },
+  {
+    "date": "2014-04-26",
+    "time": "14:00",
+    "venue": "Brantford Music Centre",
+    "address": "",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2014-04-25",
+    "time": "15:00",
+    "venue": "Queens Avenue",
+    "address": "1056 Queens Avenue",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2014-04-16",
+    "time": "19:30",
+    "venue": "Second Cup, 1477 Lakeshore Rd. East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2014-03-30",
+    "time": "19:00",
+    "venue": "Burlington Gardens",
+    "address": "300 Plains Road West",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2014-03-28",
+    "time": "15:30",
+    "venue": "Appleby Place",
+    "address": "500 Appleby Line",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2014-03-25",
+    "time": "19:00",
+    "venue": "Lakeshore Place",
+    "address": "5314 Lakeshore Rd",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2014-03-20",
+    "time": "16:00",
+    "venue": "Hearthstone By The Lake",
+    "address": "100 Burloak Drive",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2014-03-19",
+    "time": "19:30",
+    "venue": "Second Cup, 1477 Lakeshore Rd. East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2014-03-17",
+    "time": "15:00",
+    "venue": "Forum Italia",
+    "address": "195 Forum Dr",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2014-03-15",
+    "time": "16:30",
+    "venue": "St. George Legion",
+    "address": "9 Main St. North",
+    "city": "St. George",
+    "province": "ON"
+  },
+  {
+    "date": "2014-03-05",
+    "time": "19:30",
+    "venue": "Second Cup, 1477 Lakeshore Rd. East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2014-02-26",
+    "time": "14:00",
+    "venue": "Westmount Terrace",
+    "address": "723 Rymal W",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2014-02-23",
+    "time": "14:00",
+    "venue": "Station Coffee House & Gallery",
+    "address": "5 Wadsworth St",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2014-02-19",
+    "time": "19:30",
+    "venue": "Second Cup, 1477 Lakeshore Rd. East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2014-02-17",
+    "time": "14:00",
+    "venue": "The Village Of Erin Meadows",
+    "address": "2930 Erin Centre Blvd",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2014-02-15",
+    "time": "17:00",
+    "venue": "George Legion",
+    "address": "9 Main St. North",
+    "city": "St. George",
+    "province": "ON"
+  },
+  {
+    "date": "2014-02-14",
+    "time": "15:00",
+    "venue": "Martha's Landing",
+    "address": "2109 Lakeshore Rd",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2014-02-06",
+    "time": "14:00",
+    "venue": "Brierwood Gardens",
+    "address": "425 Park Road North",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2014-02-05",
+    "time": "19:30",
+    "venue": "Second Cup, 1477 Lakeshore Rd. East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2014-01-30",
+    "time": "15:00",
+    "venue": "Martha's Landing",
+    "address": "2109 Lakeshore Road",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2014-01-25",
+    "time": "14:00",
+    "venue": "Brierwood Gardens",
+    "address": "425 Park Road North",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2014-01-22",
+    "time": "20:00",
+    "venue": "Second Cup, 1477 Lakeshore Rd. East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2014-01-12",
+    "time": "14:30",
+    "venue": "The Court At Rushdale",
+    "address": "1360 Upper Sherman Ave",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2014-01-10",
+    "time": "20:00",
+    "venue": "St. George Legion",
+    "address": "9 Main Street North",
+    "city": "St. George",
+    "province": "ON"
+  },
+  {
+    "date": "2014-01-08",
+    "time": "19:30",
+    "venue": "Second Cup, 1477 Lakeshore Rd. East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2013-12-31",
+    "time": "14:00",
+    "venue": "Brierwood Gardens",
+    "address": "425 Park Rd N",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2013-12-11",
+    "time": "19:30",
+    "venue": "Second Cup, 1477 Lakeshore Rd. East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2013-11-28",
+    "time": "19:00",
+    "venue": "St. Paul's",
+    "address": "29 Park St W",
+    "city": "Dundas",
+    "province": "ON"
+  },
+  {
+    "date": "2013-11-27",
+    "time": "19:30",
+    "venue": "Second Cup, 1477 Lakeshore Rd. East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2013-11-21",
+    "time": "14:00",
+    "venue": "Aberdeen Gardens",
+    "address": "330 Dundurn St. South",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2013-11-13",
+    "time": "19:30",
+    "venue": "Second Cup, 1477 Lakeshore Rd. East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2013-10-31",
+    "time": "14:00",
+    "venue": "The Village Of Erin Meadows",
+    "address": "2930 Erin Centre Blvd",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2013-10-30",
+    "time": "19:30",
+    "venue": "Second Cup, 1477 Lakeshore Rd. East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2013-10-25",
+    "time": "15:30",
+    "venue": "Appleby Place",
+    "address": "500 Appleby Line",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2013-10-20",
+    "time": "14:00",
+    "venue": "The Station Coffee House & Gallery",
+    "address": "",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2013-10-18",
+    "time": "14:00",
+    "venue": "Waterdown Manor",
+    "address": "335 Dundas Street East",
+    "city": "Waterdown",
+    "province": "ON"
+  },
+  {
+    "date": "2013-10-16",
+    "time": "19:30",
+    "venue": "Second Cup, 1477 Lakeshore Rd. East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2013-10-02",
+    "time": "19:30",
+    "venue": "Second Cup, 1477 Lakeshore Rd. East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2013-10-02",
+    "time": "14:00",
+    "venue": "The Rosslyn",
+    "address": "1322 King Street East",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2013-09-21",
+    "time": "16:30",
+    "venue": "Applefest (St. George Legion Stage)",
+    "address": "9 Main St. North",
+    "city": "St. George",
+    "province": "ON"
+  },
+  {
+    "date": "2013-09-21",
+    "time": "14:00",
+    "venue": "Brantford Music Centre",
+    "address": "422 Colborne Street",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2013-09-19",
+    "time": "18:30",
+    "venue": "Ancaster Fair Showcase",
+    "address": "630 Trinity Road South",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2013-09-14",
+    "time": "19:00",
+    "venue": "Aberdeen Gardens",
+    "address": "330 Dundurn Street South",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2013-09-07",
+    "time": "17:00",
+    "venue": "Roots 'n Rails Festival",
+    "address": "5 Wadsworth Street",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2013-08-24",
+    "time": "17:00",
+    "venue": "House Concert",
+    "address": "Orkney Road",
+    "city": "Lynden",
+    "province": "ON"
+  },
+  {
+    "date": "2013-08-22",
+    "time": "19:00",
+    "venue": "Waterford Old Town Hall",
+    "address": "76 Main St S",
+    "city": "Waterford",
+    "province": "ON"
+  },
+  {
+    "date": "2013-08-05",
+    "time": "14:00",
+    "venue": "The Village of Erin Meadows",
+    "address": "2930 Erin Centre Blvd",
+    "city": "Mississauga",
+    "province": "ON"
+  },
+  {
+    "date": "2013-07-26",
+    "time": "21:00",
+    "venue": "The Moonshine Caf\u00e9",
+    "address": "137 Kerr St",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2013-07-24",
+    "time": "19:30",
+    "venue": "Second Cup, 1477 Lakeshore Rd. East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2013-07-22",
+    "time": "15:00",
+    "venue": "Chartwell Classic",
+    "address": "180 Oak Park Blvd",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2013-07-20",
+    "time": "17:00",
+    "venue": "St. George Legion",
+    "address": "9 Main Street North",
+    "city": "St. George",
+    "province": "ON"
+  },
+  {
+    "date": "2013-07-13",
+    "time": "15:00",
+    "venue": "Burlington Gardens",
+    "address": "300 Plains Road West",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2013-07-12",
+    "time": "15:00",
+    "venue": "Aberdeen Gardens",
+    "address": "330 Dundurn Street South",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2013-07-10",
+    "time": "19:30",
+    "venue": "Second Cup, 1477 Lakeshore Rd. East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2013-07-02",
+    "time": "19:00",
+    "venue": "Lakeshore Place",
+    "address": "5314 Lakeshore Rd",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2013-07-01",
+    "time": "15:00",
+    "venue": "Canada Celebration In Centriller Square",
+    "address": "2410 Lakeshore Rd. W",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2013-06-26",
+    "time": "19:30",
+    "venue": "1477 Lakeshore Road Second Cup",
+    "address": "East",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2013-06-25",
+    "time": "14:00",
+    "venue": "Allendale - Milton",
+    "address": "185 Ontario St S",
+    "city": "Milton",
+    "province": "ON"
+  },
+  {
+    "date": "2013-06-12",
+    "time": "19:30",
+    "venue": "1477 Lakeshore Road Second Cup",
+    "address": "East",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2013-06-09",
+    "time": "12:00",
+    "venue": "Centre - Fine Art & Crafts Festival",
+    "address": "Lakeshore Road",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2013-06-08",
+    "time": "22:00",
+    "venue": "Show - In-studio Interview",
+    "address": "1280 Main St W",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2013-06-08",
+    "time": "12:00",
+    "venue": "Centre - Fine Art & Crafts Festival",
+    "address": "Lakeshore Road",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2013-06-07",
+    "time": "19:00",
+    "venue": "Hamilton, ON L9B 1K2 Second Cup",
+    "address": "",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2013-06-02",
+    "time": "12:30",
+    "venue": "CJ`s Cafe",
+    "address": "2416 Lakeshore Rd W",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2013-05-29",
+    "time": "19:30",
+    "venue": "1477 Lakeshore Road Second Cup",
+    "address": "East",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2013-05-15",
+    "time": "19:30",
+    "venue": "1477 Lakeshore Road Second Cup",
+    "address": "East",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2013-05-05",
+    "time": "14:00",
+    "venue": "The Station Coffee House & Gallery",
+    "address": "5 Wodsworth Street",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2013-05-01",
+    "time": "19:30",
+    "venue": "1477 Lakeshore Road Second Cup",
+    "address": "East",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2013-04-28",
+    "time": "12:30",
+    "venue": "CJ`s Cafe",
+    "address": "2416 Lakeshore Rd W",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2013-04-19",
+    "time": "18:30",
+    "venue": "The Village Of Tansley Woods",
+    "address": "4100 Upper Middle Rd",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2013-04-17",
+    "time": "19:30",
+    "venue": "Second Cup",
+    "address": "1477 Lakeshore Rd. East",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2013-04-09",
+    "time": "19:30",
+    "venue": "Delmanor Glen Abbey",
+    "address": "1459 Nottinghill Gate",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2013-04-03",
+    "time": "19:30",
+    "venue": "Second Cup, 1477 Lakeshore Rd. East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2013-04-02",
+    "time": "14:00",
+    "venue": "The Rosslyn",
+    "address": "1322 King Street East",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2013-03-26",
+    "time": "14:30",
+    "venue": "Aberdeen Gardens",
+    "address": "Dundurn Street",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2013-03-25",
+    "time": "18:00",
+    "venue": "The Airforce Club",
+    "address": "128 King Street East",
+    "city": "Dundas",
+    "province": "ON"
+  },
+  {
+    "date": "2013-03-20",
+    "time": "19:30",
+    "venue": "Second Cup, 1477 Lakeshore Rd. East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2013-03-17",
+    "time": "12:30",
+    "venue": "CJ`s Cafe",
+    "address": "2416 Lakeshore Rd W",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2013-03-10",
+    "time": "14:00",
+    "venue": "Station Coffee House & Gallery",
+    "address": "5 Wodsworth Street",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2013-03-10",
+    "time": "10:00",
+    "venue": "Lakeshore Place",
+    "address": "5314 Lakeshore Rd",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2013-03-08",
+    "time": "20:00",
+    "venue": "Moonshine Cafe",
+    "address": "137 Kerr St",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2013-03-06",
+    "time": "19:30",
+    "venue": "Second Cup, 1477 Lakeshore Rd. East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2013-02-20",
+    "time": "19:30",
+    "venue": "Second Cup, 1477 Lakeshore Rd. East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2013-02-06",
+    "time": "19:30",
+    "venue": "Second Cup, 1477 Lakeshore Rd. East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2013-01-23",
+    "time": "19:30",
+    "venue": "Second Cup, 1477 Lakeshore Rd. East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2013-01-19",
+    "time": "14:00",
+    "venue": "Brantford Music Centre",
+    "address": "422 Colborne Street",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2013-01-09",
+    "time": "19:30",
+    "venue": "Second Cup",
+    "address": "1477 Lakeshore Rd. East",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2012-12-12",
+    "time": "19:30",
+    "venue": "Second Cup",
+    "address": "1477 Lakeshore Rd",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2012-12-09",
+    "time": "12:30",
+    "venue": "CJ's Cafe",
+    "address": "1477 Lakeshore Rd",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2012-12-06",
+    "time": "20:00",
+    "venue": "Brierwood Gardens",
+    "address": "425 Park Road North",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2012-12-02",
+    "time": "19:00",
+    "venue": "CKOC Christmas Charity Event",
+    "address": "50 Leander drive",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2012-11-28",
+    "time": "19:30",
+    "venue": "Second Cup",
+    "address": "1477 Lakeshore Rd",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2012-11-27",
+    "time": "19:00",
+    "venue": "The Airforce Club",
+    "address": "128 King Street East",
+    "city": "Dundas",
+    "province": "ON"
+  },
+  {
+    "date": "2012-11-14",
+    "time": "19:30",
+    "venue": "Second Cup",
+    "address": "1477 Lakeshore Rd",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2012-11-11",
+    "time": "12:30",
+    "venue": "CJ's Cafe",
+    "address": "2416 Lakeshore Rd. West",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2012-11-01",
+    "time": "20:00",
+    "venue": "Sanderson Centre",
+    "address": "88 Dalhousie St",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2012-11-01",
+    "time": "19:30",
+    "venue": "Second Cup",
+    "address": "1477 Lakeshore Rd. East",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2012-10-31",
+    "time": "15:30",
+    "venue": "Aberdeen Gardens",
+    "address": "330 Dundurn St. South",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2012-10-17",
+    "time": "19:30",
+    "venue": "Second Cup",
+    "address": "1477 Lakeshore Rd. East",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2012-10-03",
+    "time": "19:30",
+    "venue": "Second Cup",
+    "address": "1477 Lakeshore Rd. East",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2012-09-30",
+    "time": "11:00",
+    "venue": "Applefest Fall Fair At Ireland House",
+    "address": "2168 Guelph Line",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2012-09-23",
+    "time": "17:00",
+    "venue": "Bash At Moonshine Cafe",
+    "address": "137 Kerr St",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2012-09-20",
+    "time": "19:00",
+    "venue": "Ancaster Fair",
+    "address": "630 Trinity Road",
+    "city": "Jerseyville",
+    "province": "ON"
+  },
+  {
+    "date": "2012-09-19",
+    "time": "19:30",
+    "venue": "Second Cup",
+    "address": "1477 Lakeshore Rd. East",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2012-09-15",
+    "time": "16:00",
+    "venue": "St. George Legion, 9 Main Applefest",
+    "address": "St. North",
+    "city": "St. George",
+    "province": "ON"
+  },
+  {
+    "date": "2012-09-09",
+    "time": "12:30",
+    "venue": "CJ's Cafe, 2416 Lakeshore Rd. West",
+    "address": "",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2012-09-08",
+    "time": "11:42",
+    "venue": "Festival, 5 Wodsworth Street",
+    "address": "",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2012-09-05",
+    "time": "19:30",
+    "venue": "Second Cup, 1477 Lakeshore Rd. East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2012-08-22",
+    "time": "19:30",
+    "venue": "Second Cup, 1477 Lakeshore Rd. East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2012-08-19",
+    "time": "14:00",
+    "venue": "Station Coffee House",
+    "address": "",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2012-08-16",
+    "time": "19:00",
+    "venue": "Series, 76 Main St. South",
+    "address": "",
+    "city": "Waterford",
+    "province": "ON"
+  },
+  {
+    "date": "2012-08-11",
+    "time": "12:30",
+    "venue": "CJ's Cafe, 2416 Lakeshore Rd. West",
+    "address": "",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2012-08-09",
+    "time": "19:30",
+    "venue": "Second Cup, 1477 Lakeshore Rd. East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2012-08-05",
+    "time": "14:00",
+    "venue": "House Concert",
+    "address": "",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2012-07-25",
+    "time": "19:30",
+    "venue": "Second Cup, 1477 Lakeshore Rd. East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2012-07-15",
+    "time": "12:30",
+    "venue": "CJ's Cafe, 2416 Lakeshore Rd. West",
+    "address": "",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2012-07-14",
+    "time": "17:00",
+    "venue": "House Concert",
+    "address": "",
+    "city": "Flamborough",
+    "province": "ON"
+  },
+  {
+    "date": "2012-07-12",
+    "time": "19:30",
+    "venue": "Second Cup, 1477 Lakeshore Rd. East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2012-07-07",
+    "time": "16:00",
+    "venue": "Couchiching Point Rd",
+    "address": "",
+    "city": "Orillia",
+    "province": "ON"
+  },
+  {
+    "date": "2012-07-01",
+    "time": "13:30",
+    "venue": "Canada Day In St. George, Main Street",
+    "address": "",
+    "city": "St George",
+    "province": "ON"
+  },
+  {
+    "date": "2012-06-28",
+    "time": "19:30",
+    "venue": "Second Cup, 1477 Lakeshore Rd. East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2012-06-24",
+    "time": "12:30",
+    "venue": "CJ's Cafe",
+    "address": "",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2012-06-23",
+    "time": "16:00",
+    "venue": "House Concert",
+    "address": "",
+    "city": "Flamborough",
+    "province": "ON"
+  },
+  {
+    "date": "2012-06-16",
+    "time": "13:00",
+    "venue": "Beamsville Berries",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2012-06-13",
+    "time": "19:30",
+    "venue": "Second Cup",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2012-06-10",
+    "time": "12:00",
+    "venue": "Burlington Art Centre - Fine Art",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2012-06-09",
+    "time": "12:00",
+    "venue": "Burlington Arts Centre - Fine Art",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2012-06-03",
+    "time": "16:00",
+    "venue": "Patio (Weather Permitting)",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2012-05-31",
+    "time": "19:30",
+    "venue": "Second Cup, 1477 Lakeshore Rd",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2012-05-24",
+    "time": "19:30",
+    "venue": "The Moonshine Caf\u00e9",
+    "address": "137 Kerr St",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2012-05-20",
+    "time": "12:30",
+    "venue": "CJ's Cafe",
+    "address": "",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2012-05-17",
+    "time": "19:30",
+    "venue": "Second Cup",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2012-05-06",
+    "time": "14:00",
+    "venue": "Bookstore, 513 Locust St",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2012-05-05",
+    "time": "14:00",
+    "venue": "Brantford Music Centre",
+    "address": "",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2012-05-03",
+    "time": "19:30",
+    "venue": "Second Cup, 1477 Lakeshore Rd. East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2012-04-21",
+    "time": "17:00",
+    "venue": "St. George Legion, 9 Main St. North",
+    "address": "",
+    "city": "St George",
+    "province": "ON"
+  },
+  {
+    "date": "2012-04-19",
+    "time": "19:30",
+    "venue": "Second Cup, 1477 Lakeshore Rd. East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2012-04-15",
+    "time": "12:30",
+    "venue": "CJ's Cafe, 2416 Lakeshore Rd. West",
+    "address": "",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2012-04-14",
+    "time": "19:00",
+    "venue": "Stedman Hospice Fundraiser",
+    "address": "",
+    "city": "St George",
+    "province": "ON"
+  },
+  {
+    "date": "2012-04-05",
+    "time": "19:30",
+    "venue": "Second Cup, 1477 Lakeshore Rd. East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2012-03-22",
+    "time": "20:00",
+    "venue": "The Moonshine Caf\u00e9",
+    "address": "137 Kerr St",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2012-03-21",
+    "time": "19:30",
+    "venue": "Second Cup, 1477 Lakeshore Rd. East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2012-03-08",
+    "time": "19:30",
+    "venue": "Second Cup, 1477 Lakeshore Rd. East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2012-02-25",
+    "time": "19:00",
+    "venue": "House, 320 Paling Ave",
+    "address": "",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2012-02-23",
+    "time": "19:30",
+    "venue": "Second Cup, 1477 Lakeshore Rd. East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2012-02-09",
+    "time": "19:30",
+    "venue": "Second Cup, 1477 Lakeshore Rd. East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2012-02-02",
+    "time": "19:30",
+    "venue": "Second Cup, 1477 Lakeshore Road East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2012-01-29",
+    "time": "12:30",
+    "venue": "CJ's Cafe, 2416 Lakeshore Rd. West",
+    "address": "",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2012-01-19",
+    "time": "19:30",
+    "venue": "Second Cup, 1477 Lakeshore Road East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2012-01-09",
+    "time": "19:30",
+    "venue": "1477 Lakeshore Road Second Cup",
+    "address": "East",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2012-01-08",
+    "time": "14:00",
+    "venue": "Gathering, Waterford Old Town Hall",
+    "address": "",
+    "city": "Waterford",
+    "province": "ON"
+  },
+  {
+    "date": "2012-01-05",
+    "time": "19:30",
+    "venue": "Second Cup, 1477 Lakeshore Road East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2011-12-29",
+    "time": "19:30",
+    "venue": "Second Cup, 1477 Lakeshore Road East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2011-12-22",
+    "time": "19:30",
+    "venue": "Second Cup, 1477 Lakeshore Rd. East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2011-12-18",
+    "time": "13:00",
+    "venue": "At Sandy Lane Stables",
+    "address": "",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2011-12-17",
+    "time": "20:00",
+    "venue": "CJ's Cafe, 2416 Lakeshore Rd. West",
+    "address": "",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2011-12-08",
+    "time": "19:30",
+    "venue": "Second Cup, 1477 Lakeshore Rd. East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2011-12-05",
+    "time": "19:00",
+    "venue": "The Moonshine Caf\u00e9",
+    "address": "137 Kerr St",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2011-11-24",
+    "time": "19:30",
+    "venue": "Second Cup, 1477 Lakeshore Rd. East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2011-11-17",
+    "time": "20:00",
+    "venue": "Studio Radio Interview",
+    "address": "",
+    "city": "Erin",
+    "province": "ON"
+  },
+  {
+    "date": "2011-11-10",
+    "time": "19:30",
+    "venue": "Second Cup, 1477 Lakeshore Rd. East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2011-10-29",
+    "time": "14:00",
+    "venue": "Centre, 422 Colborne Street",
+    "address": "",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2011-10-27",
+    "time": "19:30",
+    "venue": "Second Cup, 1477 Lakeshore Rd. East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2011-10-22",
+    "time": "19:00",
+    "venue": "House Concert With Wendall Ferguson",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2011-10-13",
+    "time": "19:30",
+    "venue": "Second Cup, 1477 Lakeshore Rd. East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2011-09-29",
+    "time": "19:30",
+    "venue": "Second Cup, 1477 Lakeshore Rd. East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2011-09-22",
+    "time": "20:00",
+    "venue": "Ancaster Fair, 630 Trinity Road",
+    "address": "",
+    "city": "Ancaster",
+    "province": "ON"
+  },
+  {
+    "date": "2011-09-17",
+    "time": "16:00",
+    "venue": "St. George Legion, 9 Main St. North",
+    "address": "",
+    "city": "St. George",
+    "province": "ON"
+  },
+  {
+    "date": "2011-09-08",
+    "time": "19:30",
+    "venue": "Second Cup, 1477 Lakeshore Rd. East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2011-09-03",
+    "time": "12:00",
+    "venue": "CJ's Cafe, 2416 Lakeshore Rd. West",
+    "address": "",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2011-08-27",
+    "time": "16:30",
+    "venue": "House Concert",
+    "address": "",
+    "city": "Flamborough",
+    "province": "ON"
+  },
+  {
+    "date": "2011-08-25",
+    "time": "19:30",
+    "venue": "Second Cup, 1477 Lakeshore Rd. East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2011-08-18",
+    "time": "19:30",
+    "venue": "Second Cup - 1477 Lakeshore Road East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2011-08-04",
+    "time": "19:30",
+    "venue": "Second Cup - 1477 Lakeshore Road East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2011-07-28",
+    "time": "20:00",
+    "venue": "Hall Summer Concert Series",
+    "address": "",
+    "city": "Waterford",
+    "province": "ON"
+  },
+  {
+    "date": "2011-07-21",
+    "time": "19:30",
+    "venue": "Second Cup - 1477 Lakeshore Road East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2011-07-16",
+    "time": "15:00",
+    "venue": "Brantford Music Centre",
+    "address": "",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2011-07-07",
+    "time": "19:30",
+    "venue": "Second Cup - 1477 Lakeshore Road East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2011-06-23",
+    "time": "19:30",
+    "venue": "Second Cup - 1477 Lakeshore Road East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2011-06-18",
+    "time": "13:30",
+    "venue": "St. Agatha Strawberry Festival",
+    "address": "",
+    "city": "St Agatha",
+    "province": "ON"
+  },
+  {
+    "date": "2011-06-09",
+    "time": "19:30",
+    "venue": "Second Cup - 1477 Lakeshore Road East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2011-05-26",
+    "time": "19:30",
+    "venue": "Second Cup, 1477 Lakeshore Rd. East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2011-05-24",
+    "time": "14:00",
+    "venue": "Festival, Britania Street",
+    "address": "",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2011-05-22",
+    "time": "12:00",
+    "venue": "CJ's Cafe, 2416 Lakeshore Rd. West",
+    "address": "",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2011-05-15",
+    "time": "14:00",
+    "venue": "Station Coffee House",
+    "address": "",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2011-05-12",
+    "time": "19:30",
+    "venue": "Second Cup, 1477 Lakeshore Rd. East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2011-04-28",
+    "time": "19:30",
+    "venue": "Second Cup, 1477 Lakeshore Rd. East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2011-04-14",
+    "time": "19:30",
+    "venue": "Second Cup, 1477 Lakeshore Rd. East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2011-03-31",
+    "time": "19:30",
+    "venue": "Second Cup",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2011-03-17",
+    "time": "19:30",
+    "venue": "Second Cup[, 1477 Lakeshore Rd. East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2011-03-12",
+    "time": "20:00",
+    "venue": "St. George Legion, 5 Main St. North",
+    "address": "",
+    "city": "St George",
+    "province": "ON"
+  },
+  {
+    "date": "2011-03-03",
+    "time": "19:30",
+    "venue": "Second Cup - 1477 Lakeshore Road East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2011-02-17",
+    "time": "19:30",
+    "venue": "Second Cup, 1477 Lakeshore Road East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2011-02-03",
+    "time": "19:30",
+    "venue": "Second Cup, 1477 Lakeshore Road East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2011-01-23",
+    "time": "12:00",
+    "venue": "CJ's Cafe, 2416 Lakeshore Rd. West",
+    "address": "",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2011-01-22",
+    "time": "17:00",
+    "venue": "St. George Legion, 9 Main St. North",
+    "address": "",
+    "city": "St George",
+    "province": "ON"
+  },
+  {
+    "date": "2011-01-20",
+    "time": "19:30",
+    "venue": "Second Cup, 1477 Lakeshore Road East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2011-01-06",
+    "time": "19:30",
+    "venue": "Second Cup, 1477 Lakeshore Road East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2010-12-23",
+    "time": "19:30",
+    "venue": "Second Cup, 1477 Lakeshore Road East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2010-12-11",
+    "time": "20:00",
+    "venue": "Hamilton Waterfront 47 Discovery Drive",
+    "address": "",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2010-12-09",
+    "time": "19:30",
+    "venue": "Second Cup, 1477 Lakeshore Road East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2010-12-04",
+    "time": "20:00",
+    "venue": "CJ's Cafe, 2416 Lakeshore Road West",
+    "address": "",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2010-11-27",
+    "time": "14:00",
+    "venue": "The Moonshine Caf\u00e9",
+    "address": "137 Kerr St",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2010-11-23",
+    "time": "19:30",
+    "venue": "Second Cup, 1477 Lakeshore Rd. East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2010-11-11",
+    "time": "19:30",
+    "venue": "Second Cup, 1477 Lakeshore Road East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2010-11-02",
+    "time": "20:00",
+    "venue": "Canadian Council For The Blind Dinner",
+    "address": "",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2010-10-31",
+    "time": "12:00",
+    "venue": "CJ's Cafe",
+    "address": "",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2010-10-30",
+    "time": "12:30",
+    "venue": "Interview For \"Hamilton Life\"",
+    "address": "",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2010-10-28",
+    "time": "20:00",
+    "venue": "Second Cup, 1477 Lakeshore Road East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2010-10-16",
+    "time": "18:00",
+    "venue": "St. George Legion, 9 Main St. North",
+    "address": "",
+    "city": "St George",
+    "province": "ON"
+  },
+  {
+    "date": "2010-10-14",
+    "time": "20:00",
+    "venue": "Second Cup, 1477 Lakeshore Road East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2010-10-09",
+    "time": "13:00",
+    "venue": "Gallery, 5 Wodsworth Street",
+    "address": "",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2010-09-30",
+    "time": "20:00",
+    "venue": "Second Cup, 1477 Lakeshore Road East",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2010-09-23",
+    "time": "19:00",
+    "venue": "Ancaster Fair",
+    "address": "",
+    "city": "Ancaster",
+    "province": "ON"
+  },
+  {
+    "date": "2010-09-05",
+    "time": "16:00",
+    "venue": "The Moonshine Caf\u00e9",
+    "address": "137 Kerr St",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2010-08-19",
+    "time": "19:00",
+    "venue": "Waterford Old Town Hall",
+    "address": "",
+    "city": "Waterford",
+    "province": "ON"
+  },
+  {
+    "date": "2010-08-14",
+    "time": "18:00",
+    "venue": "CJ's Cafe",
+    "address": "",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2010-08-01",
+    "time": "12:00",
+    "venue": "C.J.'s Cafe in Bronte",
+    "address": "2416 Lakeshore Rd W",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2010-08-01",
+    "time": "12:00",
+    "venue": "CJ's Cafe",
+    "address": "",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2010-07-17",
+    "time": "22:00",
+    "venue": "Street, (Beside the Credit Union)",
+    "address": "",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2010-07-03",
+    "time": "12:00",
+    "venue": "C.J.'s Cafe in Bronte",
+    "address": "2416 Lakeshore Rd W",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2010-07-01",
+    "time": "13:30",
+    "venue": "Street Celebration Area",
+    "address": "",
+    "city": "St George",
+    "province": "ON"
+  },
+  {
+    "date": "2010-06-26",
+    "time": "16:00",
+    "venue": "Private Function Fundraiser",
+    "address": "",
+    "city": "",
+    "province": "ON"
+  },
+  {
+    "date": "2010-06-25",
+    "time": "19:00",
+    "venue": "Phone - 905-681- 2410",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2010-06-19",
+    "time": "20:45",
+    "venue": "Sound of Music Festival",
+    "address": "PO Box 85007, 561 Brant Street",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2010-06-05",
+    "time": "10:00",
+    "venue": "CFMU Radio - McMaster University",
+    "address": "",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2010-05-30",
+    "time": "14:00",
+    "venue": "Station Coffee House & Gallery",
+    "address": "5 Wadsworth St",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2010-05-24",
+    "time": "12:00",
+    "venue": "CJ's Cafe",
+    "address": "",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2010-05-14",
+    "time": "19:00",
+    "venue": "Chapters Book Store",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2010-05-08",
+    "time": "18:00",
+    "venue": "Centre, 310 North Service Road",
+    "address": "",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2010-04-04",
+    "time": "12:00",
+    "venue": "CJ's Cafe",
+    "address": "",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2010-03-20",
+    "time": "18:00",
+    "venue": "St. George Legion",
+    "address": "",
+    "city": "St George",
+    "province": "ON"
+  },
+  {
+    "date": "2010-03-07",
+    "time": "12:00",
+    "venue": "CJ's Cafe",
+    "address": "",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2010-03-02",
+    "time": "12:00",
+    "venue": "Pheasant Plucker",
+    "address": "",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2010-02-28",
+    "time": "12:00",
+    "venue": "CJ's Cafe",
+    "address": "",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2010-01-30",
+    "time": "16:00",
+    "venue": "The Moonshine Caf\u00e9",
+    "address": "137 Kerr St",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2010-01-24",
+    "time": "12:00",
+    "venue": "CJ's Cafe",
+    "address": "",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2009-12-13",
+    "time": "12:00",
+    "venue": "C.J.'s Cafe in Bronte",
+    "address": "2416 Lakeshore Rd W",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2009-12-05",
+    "time": "20:00",
+    "venue": "Williams Coffee Pub",
+    "address": "",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2009-11-28",
+    "time": "16:00",
+    "venue": "The Moonshine Caf\u00e9",
+    "address": "137 Kerr St",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2009-11-15",
+    "time": "14:00",
+    "venue": "The Station Coffee House & Gallery",
+    "address": "",
+    "city": "Brantford",
+    "province": "ON"
+  },
+  {
+    "date": "2009-10-17",
+    "time": "20:00",
+    "venue": "Appleby and Upper Williams Coffee Pub",
+    "address": "middle",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2009-10-17",
+    "time": "16:00",
+    "venue": "The Moonshine Caf\u00e9",
+    "address": "137 Kerr St",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2009-09-27",
+    "time": "14:00",
+    "venue": "In A Song Celebration - River 16 Studio",
+    "address": "",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2009-09-26",
+    "time": "20:00",
+    "venue": "St. George Legion",
+    "address": "",
+    "city": "St George",
+    "province": "ON"
+  },
+  {
+    "date": "2009-09-06",
+    "time": "18:00",
+    "venue": "- Pier 4 Bayfront Park -",
+    "address": "",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2009-08-22",
+    "time": "17:00",
+    "venue": "Private Function Fundraiser",
+    "address": "",
+    "city": "Flamborough",
+    "province": "ON"
+  },
+  {
+    "date": "2009-08-15",
+    "time": "20:00",
+    "venue": "William's Coffee Pub",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2009-07-25",
+    "time": "11:43",
+    "venue": "Kerr Village Organic Farmers' Market",
+    "address": "",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2009-07-18",
+    "time": "20:00",
+    "venue": "William's Coffee Pub",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2009-07-01",
+    "time": "17:00",
+    "venue": "Canada Day Celebrations",
+    "address": "",
+    "city": "Oakville",
+    "province": "ON"
+  },
+  {
+    "date": "2009-06-13",
+    "time": "14:00",
+    "venue": "Benny's Famous Deli",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2009-06-02",
+    "time": "11:43",
+    "venue": "Benny's Restaurant",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2009-06-01",
+    "time": "11:43",
+    "venue": "Coffee Culture",
+    "address": "390 Brant St",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2009-05-30",
+    "time": "14:00",
+    "venue": "Benny's Famous Deli",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2009-05-16",
+    "time": "20:00",
+    "venue": "William's Coffee Pub",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2009-05-16",
+    "time": "14:00",
+    "venue": "Benny's Famous Deli",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2009-05-15",
+    "time": "11:43",
+    "venue": "Hamilton Port Authority",
+    "address": "",
+    "city": "Hamilton",
+    "province": "ON"
+  },
+  {
+    "date": "2009-04-25",
+    "time": "20:00",
+    "venue": "St. George Legion",
+    "address": "",
+    "city": "St George",
+    "province": "ON"
+  },
+  {
+    "date": "2009-04-13",
+    "time": "12:00",
+    "venue": "CJ's Cafe",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2009-03-14",
+    "time": "16:00",
+    "venue": "Raw Sugar Cafe",
+    "address": "",
+    "city": "Ottawa",
+    "province": "ON"
+  },
+  {
+    "date": "2009-03-07",
+    "time": "20:00",
+    "venue": "William's Coffee Pub",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2009-02-14",
+    "time": "20:00",
+    "venue": "William's Coffee Pub",
+    "address": "",
+    "city": "Burlington",
+    "province": "ON"
+  },
+  {
+    "date": "2009-02-10",
+    "time": "20:00",
+    "venue": "Pheasant Plucker",
+    "address": "",
+    "city": "Hamilton",
+    "province": "ON"
+  }
+]
